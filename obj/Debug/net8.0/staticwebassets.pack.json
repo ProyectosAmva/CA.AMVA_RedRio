@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241029_185240_Plantilla Reporte Campo.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\excel\\20241029_185240_Plantilla Reporte Campo.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241029_185545_Plantilla Reporte Campo.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\excel\\20241029_185545_Plantilla Reporte Campo.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241029_185734_Plantilla LABORATORIO.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\excel\\20241029_185734_Plantilla LABORATORIO.xlsx"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AMVA.REDRIO.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AMVA.REDRIO.props",
+      "PackagePath": "build\\AMVA.REDRIO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AMVA.REDRIO.props",
+      "PackagePath": "buildMultiTargeting\\AMVA.REDRIO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AMVA.REDRIO.props",
+      "PackagePath": "buildTransitive\\AMVA.REDRIO.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

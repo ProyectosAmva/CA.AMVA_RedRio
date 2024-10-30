@@ -1,0 +1,43 @@
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace AMVA.REDRIO.Models
+{
+    [Table("REPORTES_LABORATORIO")]
+    public class ReportesLaboratorio
+    {
+        [Key]
+        [Column("ID_REPORTE_LABORATORIO")]
+        public int IdReporte { get; set; }
+
+        
+        [Column("ID_RESULTADO_CAMPO")]
+        public int? IdResultadoCampo { get; set; }
+
+        
+        [Column("ID_CAMPAÑA")]
+        public int? IdCampaña { get; set; }
+
+        
+        [Column("ID_ESTACION")]
+        public int? IdEstacion { get; set; }
+
+        [Column("ID_MUESTRA_COMPUESTA")]
+        public int? IdMuestraCompuesta { get; set; }
+
+        [Column("FECHA_CREACION")]
+        public DateTime? Fecha_creacion { get; internal set; }
+
+        [Column("FECHA_ACTUALIZACION")]
+        public DateTime? Fecha_actualizacion { get; internal set; }
+
+        
+
+         public Campaña? Campaña { get; set; }
+         public ResultadoCampo? ResultadoCampo { get; set; }
+        public Estacion? Estacion { get; set; }
+        public MuestraCompuesta? MuestraCompuesta { get; set; }
+        
+
+    }
+}

@@ -1,0 +1,42 @@
+using AMVA.REDRIO.Models;
+using AMVA.REDRIO.Repositories;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+
+namespace AMVA.REDRIO.Services
+{
+    public class QuimicoService
+    {
+        private readonly IRepository<Quimico> _quimicoRepository;
+
+        public QuimicoService(IRepository<Quimico> quimicoRepository)
+        {
+            _quimicoRepository = quimicoRepository;
+        }
+
+        public async Task<IEnumerable<Quimico>> GetAllAsync()
+        {
+            return await _quimicoRepository.GetAllAsync();
+        }
+
+        public async Task<Quimico> GetByIdAsync(int id)
+        {
+            return await _quimicoRepository.GetByIdAsync(id);
+        }
+
+        public async Task AddAsync(Quimico quimico)
+        {
+            await _quimicoRepository.AddAsync(quimico);
+        }
+
+        public async Task UpdateAsync(Quimico quimico)
+        {
+            await _quimicoRepository.UpdateAsync(quimico);
+        }
+
+        public async Task DeleteAsync(int id)
+        {
+            await _quimicoRepository.DeleteAsync(id);
+        }
+    }
+}

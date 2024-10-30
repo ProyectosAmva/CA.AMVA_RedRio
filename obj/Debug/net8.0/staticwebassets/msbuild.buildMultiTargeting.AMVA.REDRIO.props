@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AMVA.REDRIO.props" />
+</Project>

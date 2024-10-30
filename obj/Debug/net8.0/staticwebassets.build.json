@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "pCrbrEvvs9V+8nfQ5ecKGHC8SewEGHAz2dIuoe/ZllM=",
+  "Source": "AMVA.REDRIO",
+  "BasePath": "_content/AMVA.REDRIO",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AMVA.REDRIO\\wwwroot",
+      "Source": "AMVA.REDRIO",
+      "ContentRoot": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241029_185240_Plantilla Reporte Campo.xlsx",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/excel/20241029_185240_Plantilla Reporte Campo.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\excel\\20241029_185240_Plantilla Reporte Campo.xlsx"
+    },
+    {
+      "Identity": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241029_185545_Plantilla Reporte Campo.xlsx",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/excel/20241029_185545_Plantilla Reporte Campo.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\excel\\20241029_185545_Plantilla Reporte Campo.xlsx"
+    },
+    {
+      "Identity": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241029_185734_Plantilla LABORATORIO.xlsx",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/excel/20241029_185734_Plantilla LABORATORIO.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\excel\\20241029_185734_Plantilla LABORATORIO.xlsx"
+    }
+  ]
+}
