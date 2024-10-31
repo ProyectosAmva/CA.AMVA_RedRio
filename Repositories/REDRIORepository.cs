@@ -927,4 +927,109 @@ public class HistorialExcelRepository : IRepositoryHistorialExcel<HistorialExcel
         }
     }
 
+//Documentos
+public class DocumentoRepository : IRepository<Documento>
+    {
+        private readonly ApplicationDbContext _context;
+
+        public DocumentoRepository(ApplicationDbContext context)
+        {
+            _context = context;
+        }
+
+        public async Task<IEnumerable<Documento>> GetAllAsync()
+        {
+            return await _context.Documentos.ToListAsync();
+            
+        }
+
+        public async Task<Documento> GetByIdAsync(int id)
+        {
+            return await _context.Documentos.FindAsync(id);
+        }
+
+        public async Task AddAsync(Documento documento)
+        {
+            _context.Documentos.Add(documento);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task UpdateAsync(Documento documento)
+        {
+            _context.Documentos.Update(documento);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task DeleteAsync(int id)
+        {
+            var Documento = await _context.Documentos.FindAsync(id);
+            if (Documento != null)
+            {
+                _context.Documentos.Remove(Documento);
+                await _context.SaveChangesAsync();
+            }
+        }
+    }
+
+//DocsCampaña
+public class DocsCampañaRepository : IRepositoryDocsCampaña<DocsCampaña>
+    {
+        private readonly ApplicationDbContext _context;
+
+        public DocsCampañaRepository(ApplicationDbContext context)
+        {
+            _context = context;
+        }
+
+        public async Task<IEnumerable<DocsCampaña>> GetAllAsync()
+        {
+            return await _context.DocsCampañas
+             .Include(r => r.Campaña)  
+             .Include(r => r.Documento)  
+                .ToListAsync();
+        }
+
+        public async Task<DocsCampaña> GetByIdAsync(int id)
+        {
+            return await _context.DocsCampañas
+                .Include(r => r.Campaña)
+                .Include(r => r.Documento)
+                .FirstOrDefaultAsync(r => r.Id_DocsCampaña == id);
+        }
+
+        public async Task<IEnumerable<DocsCampaña>> GetByCampañasAsync(int IdCampaña)
+    {
+        return await _context.DocsCampañas
+            .Include(r => r.Campaña)
+            .Include(r => r.Documento)
+            .Where(c => c.IdCampaña == IdCampaña)
+            .ToListAsync();
+    }
+
+
+
+        public async Task AddAsync(DocsCampaña docsCampaña)
+        {
+            _context.DocsCampañas.Add(docsCampaña);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task UpdateAsync(DocsCampaña docsCampaña)
+        {
+            _context.DocsCampañas.Update(docsCampaña);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task DeleteAsync(int id)
+        {
+            var DocsCampaña = await _context.DocsCampañas.FindAsync(id);
+            if (DocsCampaña != null)
+            {
+                _context.DocsCampañas.Remove(DocsCampaña);
+                await _context.SaveChangesAsync();
+            }
+        }
+    }
+
+
 }

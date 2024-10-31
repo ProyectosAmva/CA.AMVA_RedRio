@@ -61,14 +61,17 @@ builder.Services.AddScoped<IRepository<MuestraCompuesta>, MuestraCompuestaReposi
 builder.Services.AddScoped<MuestraCompuestaService>();
 builder.Services.AddScoped<IRepository<TipoFuente>, TipoFuenteRepository>();
 builder.Services.AddScoped<TipoFuenteService>();
+builder.Services.AddScoped<IRepository<Documento>, DocumentoRepository>();
+builder.Services.AddScoped<DocumentoService>();
+builder.Services.AddScoped<IRepositoryDocsCampaña<DocsCampaña>, DocsCampañaRepository>();
+builder.Services.AddScoped<DocsCampañaService>();
 
 
-// Agregar explorador de endpoints y configuración de Swagger
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
 
-// Configurar opciones de formulario para carga de archivos
 builder.Services.Configure<FormOptions>(x =>
 {
     x.ValueLengthLimit = int.MaxValue;
@@ -77,30 +80,24 @@ builder.Services.Configure<FormOptions>(x =>
 
 var app = builder.Build();
 
-// Habilitar manejo de excepciones en desarrollo
 if (app.Environment.IsDevelopment())
 {
-    app.UseDeveloperExceptionPage(); // Mostrar detalles de los errores en desarrollo
+    app.UseDeveloperExceptionPage(); 
 }
 
-// Configuración de Swagger
 app.UseSwagger();
 app.UseSwaggerUI();
 
-// Usar archivos estáticos
 app.UseStaticFiles(new StaticFileOptions
 {
     FileProvider = new PhysicalFileProvider(Path.Combine(app.Environment.ContentRootPath, "wwwroot")),
     RequestPath = "/uploads"
 });
 
-// Usar CORS
 app.UseCors("AllowAll");
 
-// Otras configuraciones del middleware
 app.UseHttpsRedirection();
 app.UseAuthorization();
 app.MapControllers();
 
-// Ejecutar la aplicación
 app.Run();

@@ -29,6 +29,8 @@ namespace AMVA.REDRIO.Data
         public DbSet<HistorialExcel> HistorialExceles { get; set; }
         public DbSet <MuestraCompuesta> MuestraCompuestas { get; internal set; }
         public DbSet <TipoFuente> TipoFuentes { get; internal set; }
+        public DbSet <Documento> Documentos { get; internal set; }
+        public DbSet <DocsCampaña> DocsCampañas { get; internal set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -157,6 +159,20 @@ namespace AMVA.REDRIO.Data
                 .HasOne(m => m.Campaña)
                 .WithMany()
                 .HasForeignKey(m => m.IdCampaña)
+                .OnDelete(DeleteBehavior.Restrict)
+                .IsRequired(false); 
+            //Configuracion de la relacion entre DocsCampaña y campaña
+            modelBuilder.Entity<DocsCampaña>()
+                .HasOne(m => m.Campaña)
+                .WithMany()
+                .HasForeignKey(m => m.IdCampaña)
+                .OnDelete(DeleteBehavior.Restrict)
+                .IsRequired(false);
+            //Configuracion de la relacion entre DocsCampaña y Documentos 
+             modelBuilder.Entity<DocsCampaña>()
+                .HasOne(m => m.Documento)
+                .WithMany()
+                .HasForeignKey(m => m.Id_Documento)
                 .OnDelete(DeleteBehavior.Restrict)
                 .IsRequired(false);
            

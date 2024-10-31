@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace AMVA.REDRIO.Models
 {
     [Table("DOCUMENTOS")]
-    public class Documentos
+    public class Documento
     {
         [Key]
         [Column("ID_DOCUMENTO")]
@@ -13,14 +13,18 @@ namespace AMVA.REDRIO.Models
         [Column("NOMBRE")]
         public string? Nombre { get; set; }
 
-        [Column("FECHA_CREACION")]
-        public DateTime? Fecha_creacion { get; internal set; }
+        [Column("URL")]
+        public string? Url {get; set;}
+
+
+        [Column("FECHA_CARGUE")]
+        public DateTime Fecha_cargue { get; set; }
 
         [Column("FECHA_ACTUALIZACION")]
         public DateTime? Fecha_actualizacion { get; internal set; }
 
         [Column("ESTADO")]
-        public Boolean Estado {get; set;}
+        public string? Estado {get; set;}
 
     }
 }

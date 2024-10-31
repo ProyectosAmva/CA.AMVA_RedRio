@@ -56,3 +56,4 @@ C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA
 C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA.REDRIO\obj\Debug\net8.0\AMVA.REDRIO.pdb
 C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA.REDRIO\obj\Debug\net8.0\AMVA.REDRIO.genruntimeconfig.cache
 C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA.REDRIO\obj\Debug\net8.0\ref\AMVA.REDRIO.dll
+C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA.REDRIO\obj\Debug\net8.0\AMVA.REDRIO.sourcelink.json
