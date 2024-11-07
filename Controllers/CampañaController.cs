@@ -164,6 +164,7 @@ public async Task<ActionResult<Response>> AddCampaña([FromBody] Campaña campa�
                 existingCampaña.Fecha_inicial = campaña.Fecha_inicial;
                 existingCampaña.Fecha_final = campaña.Fecha_final;
                 existingCampaña.IdFase = campaña.IdFase;
+                existingCampaña.IdUsuario =  campaña.IdUsuario;
                 existingCampaña.Fecha_actualizacion = DateTime.Now;
 
                 await _campañaService.UpdateAsync(existingCampaña);

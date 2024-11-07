@@ -29,6 +29,9 @@ namespace AMVA.REDRIO.Models
         [Column("ID_FASE")]
         public int IdFase {get; set;}
 
+        [Column("ID_USUARIO")]
+        public int? IdUsuario {get; set;}
+
         [Column("FECHA_CREACION")]
         public DateTime? Fecha_creacion { get; internal set; }
 
@@ -36,6 +39,7 @@ namespace AMVA.REDRIO.Models
         public DateTime? Fecha_actualizacion { get; internal set; }
 
         public Fase? Fase { get; set; }
+        public UsuariosDTO Usuario { get; set; }
 
     }
 

@@ -335,7 +335,8 @@ public class ReportesLaboratorioRepository : IRepositoryReporteLaboratorio<Repor
      public async Task<IEnumerable<ReportesLaboratorio>> GetAllAsync()
         {
             return await _context.ReportesLaboratorios
-                .Include(r => r.Campaña)         
+                .Include(r => r.Campaña) 
+                .ThenInclude(r => r.Fase)        
         .Include(r => r.ResultadoCampo)  
         .Include(r => r.MuestraCompuesta)
             .ThenInclude(m => m.Insitu)         

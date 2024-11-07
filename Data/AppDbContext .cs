@@ -127,6 +127,13 @@ namespace AMVA.REDRIO.Data
                 .OnDelete(DeleteBehavior.Restrict)
                 .IsRequired(false);
 
+            modelBuilder.Entity<Campaña>()
+                .HasOne(c => c.Usuario)
+                .WithMany()
+                .HasForeignKey(c => c.IdUsuario)
+                .OnDelete(DeleteBehavior.Restrict)
+                .IsRequired(false);
+
             // Configuración de la relación entre Municipio y Departamento
             modelBuilder.Entity<Municipio>()
                 .HasOne(m => m.Departamento)
