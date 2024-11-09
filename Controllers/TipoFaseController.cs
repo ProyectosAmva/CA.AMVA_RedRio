@@ -147,7 +147,7 @@ namespace AMVA.REDRIO.Controllers
             }
         }
 
-        [HttpDelete("EliminarTioFase/{id}")]
+        [HttpDelete("EliminarTipoFase/{id}")]
         public async Task<IActionResult> DeleteTipoFase(int id)
         {
             try

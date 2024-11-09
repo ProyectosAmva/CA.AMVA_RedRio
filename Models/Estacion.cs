@@ -26,7 +26,7 @@ namespace AMVA.REDRIO.Models
         public int IdTipoFuente {get; set;}
 
         [Column("ELEVACION")]
-        public int? Elevacion {get; set;}
+        public Decimal? Elevacion {get; set;}
 
         [Column("GRADOS_LATITUD")]
         public int? Grados_latitud {get; set;}
@@ -35,7 +35,7 @@ namespace AMVA.REDRIO.Models
         public int? Minutos_latitud {get; set;}
 
         [Column("SEGUNDOS_LATITUD")]
-        public int? Segundos_latitud {get; set;}
+        public Decimal? Segundos_latitud {get; set;}
 
         [Column("GRADOS_LOGITUD")]
         public int? Grados_longitud {get; set;}
@@ -44,7 +44,7 @@ namespace AMVA.REDRIO.Models
         public int? Minutos_longitud {get; set;}
 
         [Column("SEGUNDOS_LONGITUD")]
-        public int? Segundos_longitud {get; set;}
+        public Decimal? Segundos_longitud {get; set;}
 
         // [Column("S_LOGIN")]
         // public int S_login {get; set;}

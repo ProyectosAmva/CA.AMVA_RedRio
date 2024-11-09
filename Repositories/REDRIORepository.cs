@@ -352,10 +352,10 @@ public class ReportesLaboratorioRepository : IRepositoryReporteLaboratorio<Repor
             .ThenInclude(m => m.MetalSedimental) 
         .Include(r => r.MuestraCompuesta)
             .ThenInclude(m => m.Biologico)                     
-        .Include(r => r.Estacion)               // Asegúrate de que `Estacion` está correctamente referenciado
-            .ThenInclude(e => e.Municipio)      // Aquí corregí el error de acceso
-        .Include(r => r.Estacion)               // Si `TipoFuente` también es parte de `Estacion`, entonces está bien
-            .ThenInclude(e => e.TipoFuente)      // Corregido para usar `tipoFuente`
+        .Include(r => r.Estacion)             
+            .ThenInclude(e => e.Municipio)   
+        .Include(r => r.Estacion)            
+            .ThenInclude(e => e.TipoFuente)  
         .ToListAsync();
         }
 

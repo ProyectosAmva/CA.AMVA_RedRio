@@ -121,7 +121,7 @@ namespace AMVA.REDRIO.Controllers
             }
         }
 
-        [HttpDelete("EliminarDocumento/{id}")]
+       [HttpDelete("EliminarDocumento/{id}")]
         public async Task<IActionResult> DeleteDocumento(int id)
         {
             try
@@ -132,9 +132,25 @@ namespace AMVA.REDRIO.Controllers
                     var responseNotFound = new Response
                     {
                         IsSuccess = false,
-                        MessageError = "Documento not found"
+                        MessageError = "Documento no encontrado"
                     };
                     return NotFound(responseNotFound);
+                }
+
+                var filePath = Path.Combine(_webHostEnvironment.WebRootPath, existingDocumento.Url.TrimStart('/'));
+
+                if (System.IO.File.Exists(filePath))
+                {
+                    System.IO.File.Delete(filePath);
+                }
+                else
+                {
+                    var responseNotFoundFile = new Response
+                    {
+                        IsSuccess = false,
+                        MessageError = "Archivo no encontrado en el sistema"
+                    };
+                    return NotFound(responseNotFoundFile);
                 }
 
                 await _DocumentosService.DeleteAsync(id);
@@ -142,7 +158,7 @@ namespace AMVA.REDRIO.Controllers
                 var responseDeleted = new Response
                 {
                     IsSuccess = true,
-                    Message = "Documento deleted successfully"
+                    Message = "Documento y archivo eliminados correctamente"
                 };
                 return Ok(responseDeleted);
             }
@@ -151,7 +167,7 @@ namespace AMVA.REDRIO.Controllers
                 var responseError = new Response
                 {
                     IsSuccess = false,
-                    MessageError = "Error deleting Documento",
+                    MessageError = "Error al eliminar el documento",
                     Error = ex.Message
                 };
                 return StatusCode(StatusCodes.Status500InternalServerError, responseError);

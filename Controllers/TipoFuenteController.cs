@@ -147,7 +147,7 @@ namespace AMVA.REDRIO.Controllers
             }
         }
 
-        [HttpDelete("EliminarTioFuente/{id}")]
+        [HttpDelete("EliminarTipoFuente/{id}")]
         public async Task<IActionResult> DeleteTipoFuente(int id)
         {
             try
