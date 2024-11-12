@@ -13,8 +13,6 @@ namespace AMVA.REDRIO.Models
         [Column("FECHA_CARGUE")]
         public DateTime Fecha_cargue { get; set; }
 
-        [Column("NOMBRE_USUARIO")]
-        public string? nombreUsuario {get; set;}
 
         [Column("NOMBRE")]
         public string? nombre {get; set;}
@@ -28,6 +26,10 @@ namespace AMVA.REDRIO.Models
 
         [Column("FECHA_ACTUALIZACION")]
         public DateTime? Fecha_actualizacion { get; internal set; }
+
+        [Column("ID_USUARIO")]
+        public int? IdUsuario {get; set;}
+
 
 
         public Campaña? Campaña { get; set; }

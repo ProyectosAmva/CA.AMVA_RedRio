@@ -170,7 +170,6 @@ namespace AMVA.REDRIO.Controllers
             var historialExcel = new HistorialExcel
             {
                 Fecha_cargue = DateTime.Now,
-                nombreUsuario = nombreUsuario,
                 Url = $"/uploads/excel/{newFileName}",
                 nombre = nombreConFecha,  
                 IdCampaña = IdCampaña 
@@ -216,7 +215,6 @@ namespace AMVA.REDRIO.Controllers
                 }
 
                 existingHistorialExcel.Fecha_cargue = historialExcel.Fecha_cargue;
-                existingHistorialExcel.nombreUsuario = historialExcel.nombreUsuario;
                 existingHistorialExcel.Url = historialExcel.Url;
                 existingHistorialExcel.IdCampaña =  historialExcel.IdCampaña;
                 existingHistorialExcel.Fecha_actualizacion = DateTime.Now;

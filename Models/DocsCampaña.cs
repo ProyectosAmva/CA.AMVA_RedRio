@@ -25,8 +25,8 @@ namespace AMVA.REDRIO.Models
         [Column("ESTADO")]
         public string? Estado {get; set;}
 
-        [Column("USUARIO")]
-        public string? Usuario {get; set;}
+        [Column("ID_USUARIO")]
+        public int? IdUsuario {get; set;}
 
         public Campaña? Campaña { get; set; }
         public Documento? Documento { get; set; }

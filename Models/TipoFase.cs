@@ -13,5 +13,8 @@ namespace AMVA.REDRIO.Models
         [Required]
         [Column("NOMBRE_TIPO_FASE")]
         public string NombreTipoFase { get; set; }
+
+        [Column("ID_USUARIO")]
+        public int? IdUsuario {get; set;}
     }
 }

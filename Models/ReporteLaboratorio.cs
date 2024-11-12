@@ -31,6 +31,9 @@ namespace AMVA.REDRIO.Models
         [Column("FECHA_ACTUALIZACION")]
         public DateTime? Fecha_actualizacion { get; internal set; }
 
+        [Column("ID_USUARIO")]
+        public int? IdUsuario {get; set;}
+
         
 
          public Campaña? Campaña { get; set; }

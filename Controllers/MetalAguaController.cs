@@ -83,7 +83,7 @@ namespace AMVA.REDRIO.Controllers
             }
         }
 
-        [Route("AgregarMetal")]
+        [Route("AgregarMetalAgua")]
         [HttpPost]
         public async Task<ActionResult<Response>> AddMetalAgua([FromBody] MetalAgua metalAgua)
         {

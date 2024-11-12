@@ -67,6 +67,9 @@ namespace AMVA.REDRIO.Models
         [Column("FECHA_MUESTRA")]
         public DateTime? Fecha_Muestra { get;  set; }
 
+        [Column("ID_USUARIO")]
+        public int? IdUsuario {get; set;}
+
 
     }
 }

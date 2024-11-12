@@ -19,7 +19,7 @@ namespace AMVA.REDRIO.Controllers
             _resultadoCampoService = resultadoCampoService;
         }
 
-        [Route("ObtenerResultadosLaboratorio")]
+        [Route("ObtenerResultadosCampo")]
         [HttpGet]
         public async Task<ActionResult<Response>> GetAllResultadoCampos()
         {
@@ -47,7 +47,7 @@ namespace AMVA.REDRIO.Controllers
         }
 
          
-        [HttpGet("ObtenerResultadoLaboratorio/{id}")]
+        [HttpGet("ObtenerResultadoCampo/{id}")]
         public async Task<ActionResult<Response>> GetByIdResultadoCampo(int id)
         {
             try
@@ -83,7 +83,7 @@ namespace AMVA.REDRIO.Controllers
             }
         }
 
-        [Route("AgregarResultadoLaboratorio")]
+        [Route("AgregarResultadoCampo")]
         [HttpPost]
         public async Task<ActionResult<Response>> AddResultadoCampo([FromBody] ResultadoCampo resultadoCampo)
         {
@@ -111,7 +111,7 @@ namespace AMVA.REDRIO.Controllers
             }
         }
                 
-        [HttpPut("ActualizarResultadoLaboratorio/{id}")]
+        [HttpPut("ActualizarResultadoCampo/{id}")]
         public async Task<IActionResult> UpdateResultadoCampo(int id, [FromBody] ResultadoCampo resultadoCampo)
         {
 
@@ -171,7 +171,7 @@ namespace AMVA.REDRIO.Controllers
         }
 
          
-        [HttpDelete("EliminarResultadoLaboratorio/{id}")]
+        [HttpDelete("EliminarResultadoCampo/{id}")]
         public async Task<IActionResult> DeleteResultadoCampo(int id)
         {
             try

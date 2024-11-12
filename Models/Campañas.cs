@@ -39,7 +39,7 @@ namespace AMVA.REDRIO.Models
         public DateTime? Fecha_actualizacion { get; internal set; }
 
         public Fase? Fase { get; set; }
-        public UsuariosDTO Usuario { get; set; }
+        // public UsuariosDTO Usuario { get; set; }
 
     }
 
