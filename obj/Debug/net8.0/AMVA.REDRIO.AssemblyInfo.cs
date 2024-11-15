@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AMVA.REDRIO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+038dc57c268f223406197f7eca7019c87a96c4fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddacb9c4b754c983fdb633ce453e8a8e92f6e070")]
 [assembly: System.Reflection.AssemblyProductAttribute("AMVA.REDRIO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AMVA.REDRIO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

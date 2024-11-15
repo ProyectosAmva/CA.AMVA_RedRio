@@ -123,7 +123,7 @@ namespace AMVA.REDRIO.Controllers
 
         [Route("AgregarHistorialExcel")]
     [HttpPost]
-    public async Task<ActionResult<Response>> AddHistorialExcel([FromForm] IFormFile file, [FromForm] string nombreUsuario, [FromForm] int IdCampaña)
+    public async Task<ActionResult<Response>> AddHistorialExcel([FromForm] IFormFile file, [FromForm] int IdUsuario, [FromForm] int IdCampaña)
     {
         try
         {
@@ -172,7 +172,8 @@ namespace AMVA.REDRIO.Controllers
                 Fecha_cargue = DateTime.Now,
                 Url = $"/uploads/excel/{newFileName}",
                 nombre = nombreConFecha,  
-                IdCampaña = IdCampaña 
+                IdCampaña = IdCampaña,
+                IdUsuario = IdUsuario
             };
 
             await _historialExcelService.AddAsync(historialExcel);
