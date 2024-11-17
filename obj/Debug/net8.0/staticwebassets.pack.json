@@ -1,6 +1,42 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_160418_PlantillaLABORATORIO.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\Documentos\\20241115_160418_PlantillaLABORATORIO.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_163202_Plantilla Reporte Campo error.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\Documentos\\20241115_163202_Plantilla Reporte Campo error.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_164730_Campañas.js",
+      "PackagePath": "staticwebassets\\uploads\\Documentos\\20241115_164730_Campañas.js"
+    },
+    {
+      "Id": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_164810_Captura de pantalla (2).png",
+      "PackagePath": "staticwebassets\\uploads\\Documentos\\20241115_164810_Captura de pantalla (2).png"
+    },
+    {
+      "Id": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_171650_Campañas.js",
+      "PackagePath": "staticwebassets\\uploads\\Documentos\\20241115_171650_Campañas.js"
+    },
+    {
+      "Id": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241116_143835_Campañas.js",
+      "PackagePath": "staticwebassets\\uploads\\Documentos\\20241116_143835_Campañas.js"
+    },
+    {
+      "Id": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241116_144127_PlantillaLABORATORIO.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\Documentos\\20241116_144127_PlantillaLABORATORIO.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241116_145640_PlantillaLABORATORIO.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\Documentos\\20241116_145640_PlantillaLABORATORIO.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241116_174333_Campañas.js",
+      "PackagePath": "staticwebassets\\uploads\\Documentos\\20241116_174333_Campañas.js"
+    },
+    {
       "Id": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241029_185240_Plantilla Reporte Campo.xlsx",
       "PackagePath": "staticwebassets\\uploads\\excel\\20241029_185240_Plantilla Reporte Campo.xlsx"
     },
@@ -43,6 +79,14 @@
     {
       "Id": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241115_152111_PlantillaLABORATORIO.xlsx",
       "PackagePath": "staticwebassets\\uploads\\excel\\20241115_152111_PlantillaLABORATORIO.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241115_152534_PlantillaReporteCampo.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\excel\\20241115_152534_PlantillaReporteCampo.xlsx"
+    },
+    {
+      "Id": "C:\\Users\\claudia.dorado\\Documents\\REDRIOMicroservicios\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241116_175818_PlantillaReporteCampo.xlsx",
+      "PackagePath": "staticwebassets\\uploads\\excel\\20241116_175818_PlantillaReporteCampo.xlsx"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AMVA.REDRIO.Microsoft.AspNetCore.StaticWebAssets.props",

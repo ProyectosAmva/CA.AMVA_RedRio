@@ -175,47 +175,49 @@ namespace AMVA.REDRIO.Controllers
         }
 
 
-        [HttpGet("DescargarDocumento/{id}")]
-        public async Task<IActionResult> DownloadDocumento(int id)
+       [HttpGet("DescargarDocumento/{id}")]
+    public async Task<IActionResult> DownloadDocumento(int id)
+    {
+        try
         {
-            try
+            var Documento = await _DocumentosService.GetByIdAsync(id);
+            if (Documento == null)
             {
-                var Documento = await _DocumentosService.GetByIdAsync(id);
-                if (Documento == null)
-                {
-                    var responseNotFound = new Response
-                    {
-                        IsSuccess = false,
-                        MessageError = "Documento not found"
-                    };
-                    return NotFound(responseNotFound);
-                }
-
-                var filePath = Path.Combine(_webHostEnvironment.WebRootPath, Documento.Url.TrimStart('/'));
-                if (!System.IO.File.Exists(filePath))
-                {
-                    var responseNotFound = new Response
-                    {
-                        IsSuccess = false,
-                        MessageError = "File not found"
-                    };
-                    return NotFound(responseNotFound);
-                }
-
-                var fileBytes = await System.IO.File.ReadAllBytesAsync(filePath);
-                return File(fileBytes, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", Documento.Url);
-            }
-            catch (Exception ex)
-            {
-                var responseError = new Response
+                var responseNotFound = new Response
                 {
                     IsSuccess = false,
-                    MessageError = "Error downloading Documento",
-                    Error = ex.Message
+                    MessageError = "Documento not found"
                 };
-                return StatusCode(StatusCodes.Status500InternalServerError, responseError);
+                return NotFound(responseNotFound);
             }
+
+            var filePath = Path.Combine(_webHostEnvironment.WebRootPath, Documento.Url.TrimStart('/'));
+            if (!System.IO.File.Exists(filePath))
+            {
+                var responseNotFound = new Response
+                {
+                    IsSuccess = false,
+                    MessageError = "File not found"
+                };
+                return NotFound(responseNotFound);
+            }
+
+            var fileBytes = await System.IO.File.ReadAllBytesAsync(filePath);
+
+            var fileName = Path.GetFileName(Documento.Url); 
+            return File(fileBytes, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", fileName);
         }
-    
+        catch (Exception ex)
+        {
+            var responseError = new Response
+            {
+                IsSuccess = false,
+                MessageError = "Error downloading Documento",
+                Error = ex.Message
+            };
+            return StatusCode(StatusCodes.Status500InternalServerError, responseError);
+        }
+    }
+
     }
 }

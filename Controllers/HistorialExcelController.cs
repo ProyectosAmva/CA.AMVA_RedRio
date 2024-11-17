@@ -307,7 +307,10 @@ namespace AMVA.REDRIO.Controllers
                 }
 
                 var fileBytes = await System.IO.File.ReadAllBytesAsync(filePath);
-                return File(fileBytes, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", historialExcel.Url);
+                var fileName = Path.GetFileName(historialExcel.Url); 
+            return File(fileBytes, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", fileName);
+
+                // return File(fileBytes, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", historialExcel.Url);
             }
             catch (Exception ex)
             {

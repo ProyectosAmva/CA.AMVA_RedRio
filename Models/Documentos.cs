@@ -21,7 +21,7 @@ namespace AMVA.REDRIO.Models
         public DateTime Fecha_cargue { get; set; }
 
         [Column("FECHA_ACTUALIZACION")]
-        public DateTime? Fecha_actualizacion { get; internal set; }
+        public DateTime? Fecha_actualizacion { get;  set; }
 
         [Column("ESTADO")]
         public string? Estado {get; set;}
