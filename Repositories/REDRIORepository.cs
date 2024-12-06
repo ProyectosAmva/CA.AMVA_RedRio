@@ -5,8 +5,14 @@ using Microsoft.EntityFrameworkCore;
 using AMVA.REDRIO.Data;
 using AMVA.REDRIO.Models;
 
+/// <summary>
+    /// Clase que implementa el repositorio para gestionar las operaciones CRUD 
+    /// relacionadas con los objetos  
+    /// para interactuar con la base de datos y realizar operaciones asincrónicas 
+    /// </summary>
 namespace AMVA.REDRIO.Repositories
 {
+    
     //Departamento
     public class DepartamentoRepository : IRepository<Departamento>
     {

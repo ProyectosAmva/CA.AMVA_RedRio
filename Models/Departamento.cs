@@ -3,6 +3,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+     /// <summary>
+    /// modelo de departamento dentro del sistema, con un nombre, código y fechas de creación y actualización.
+    /// </summary>
     [Table("DEPARTAMENTOS")]
     public class Departamento
     {

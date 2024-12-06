@@ -3,6 +3,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+     /// <summary>
+    /// Modelo de Insitu,
+    /// incluyendo parámetros como ORP, oxígeno disuelto, turbidez, temperatura del agua, temperatura ambiente, 
+    /// conductividad eléctrica, pH, y las fechas asociadas a la medición.
+    /// </summary>
     [Table("INSITU")]
     public class Insitu
     {

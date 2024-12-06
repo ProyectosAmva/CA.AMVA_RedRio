@@ -5,6 +5,10 @@ using AMVA.REDRIO.Repositories;
 
 namespace AMVA.REDRIO.Services
 {
+      /// <summary>
+    /// Servicio para gestionar los reportes de laboratorio. 
+    /// Realiza operaciones como obtener, agregar, actualizar y eliminar reportes relacionados con las campañas.
+    /// </summary>
     public class ReportesLaboratorioService
     {   
         private readonly IRepositoryReporteLaboratorio<ReportesLaboratorio> _reportesLaboratorioRepository;

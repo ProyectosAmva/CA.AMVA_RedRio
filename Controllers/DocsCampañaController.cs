@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace AMVA.REDRIO.Controllers
 {
+    /// <summary>
+    /// Controlador para manejar las operaciones CRUD relacionadas con los documentos asociadas a campañas.
+    /// Proporciona métodos para obtener, agregar, actualizar y eliminar registros de Departamentos.
+    /// </summary>
     [ApiController]
     [Route("api/[controller]")]
     public class DocsCampañaController : ControllerBase

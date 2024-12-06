@@ -8,6 +8,11 @@ using Microsoft.AspNetCore.Http;
 
 namespace AMVA.REDRIO.Controllers
 {
+    /// <summary>
+/// Controlador de API para gestionar los registros de municipios. 
+/// Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los registros de municipios,
+/// así como obtener información detallada de un municipio específico o todos los municipios.
+/// </summary>
     [ApiController]
     [Route("api/[controller]")]
     public class MunicipioController : ControllerBase

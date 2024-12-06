@@ -3,6 +3,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+     /// <summary>
+    /// Modelo que representa los tipos de fases en el sistema.
+    /// </summary>
     [Table("TIPO_FASE")]
     public class TipoFase
     {

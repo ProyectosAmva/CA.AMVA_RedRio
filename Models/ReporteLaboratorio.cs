@@ -3,6 +3,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+     /// <summary>
+    /// Modelo de reporte de laboratorio relacionado con los resultados de campo, campañas, estaciones y muestras compuestas.
+    /// </summary>
     [Table("REPORTES_LABORATORIO")]
     public class ReportesLaboratorio
     {

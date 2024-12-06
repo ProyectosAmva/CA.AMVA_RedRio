@@ -3,6 +3,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+     /// <summary>
+    /// modelo para relacion  entre una campaña y un documento cargado en el sistema. 
+    /// Incluye información sobre el estado del documento, fechas de carga y actualización, 
+    /// y el usuario que realiza la operación.
+    /// </summary>
     [Table("DOCS_CAMPAÑA")]
     public class DocsCampaña
     {

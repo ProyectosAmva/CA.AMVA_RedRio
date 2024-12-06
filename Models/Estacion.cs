@@ -3,6 +3,10 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+    /// <summary>
+    /// Modelo de estación con información como su código, nombre, ubicación geográfica,
+    /// elevación, tipo de fuente y las fechas de creación y actualización.
+    /// </summary>
     [Table("ESTACION")]
     public class Estacion
     {
@@ -57,6 +61,7 @@ namespace AMVA.REDRIO.Models
 
         [Column("ID_USUARIO")]
         public int? IdUsuario {get; set;}
+        
 
         public Municipio? Municipio { get; set; }
 

@@ -3,6 +3,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+      /// <summary>
+    /// Modelo  de metales sedimentables ,
+    /// incluyendo Cadmio, Cobre, Cromo, Mercurio y Plomo, así como las fechas de muestra, 
+    /// creación y actualización de los datos.
+    /// </summary>
     [Table("METALES_SEDIMENTO")]
     public class MetalSedimental
     {

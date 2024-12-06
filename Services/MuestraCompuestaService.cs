@@ -5,6 +5,12 @@ using AMVA.REDRIO.Repositories;
 
 namespace AMVA.REDRIO.Services
 {
+     /// <summary>
+    /// Servicio que proporciona métodos para gestionar las operaciones relacionadas con 
+    /// los objetos de tipo MuestraCompuesta. Utiliza un repositorio genérico para realizar 
+    /// operaciones CRUD asincrónicas como obtener, agregar, actualizar y eliminar 
+    /// datos de MuestraCompuesta.
+    /// </summary>
     public class MuestraCompuestaService
     {
         private readonly IRepository<MuestraCompuesta> _MuestraCompuestaRepository;

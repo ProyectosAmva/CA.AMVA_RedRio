@@ -3,6 +3,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+    /// <summary>
+    /// Modelo de metales, 
+    /// incluyendo Cadmio, Níquel, Cobre, Mercurio, Cromo, Plomo y Cromo Hexavalente.
+    /// Además, almacena la fecha de la muestra, la fecha de creación y actualización de los datos.
+    /// </summary>
     [Table("METAL_AGUA")]
     public class MetalAgua
     {

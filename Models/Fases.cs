@@ -3,6 +3,10 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+     /// <summary>
+    /// Modelo  de fase dentro de un proceso, incluyendo información como 
+    /// el nombre de la fase, año, tipo de fase y fechas de creación y actualización.
+    /// </summary>
     [Table("FASES")]
     public class Fase
     {

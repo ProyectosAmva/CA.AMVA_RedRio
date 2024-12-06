@@ -3,6 +3,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+      /// <summary>
+    /// modelo  de registro componente biológico, incluyendo diversos parámetros.
+    /// </summary>
     [Table("BIOLOGICOS")]
     public class Biologico
     {

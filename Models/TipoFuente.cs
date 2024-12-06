@@ -3,6 +3,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+     /// <summary>
+    /// Modelo de tipos de fuentes en el sistema.
+    /// </summary>
     [Table("TIPO_FUENTE")]
     public class TipoFuente
     {

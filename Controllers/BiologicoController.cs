@@ -8,6 +8,10 @@ using Microsoft.AspNetCore.Http;
 
 namespace AMVA.REDRIO.Controllers
 {
+     /// <summary>
+    /// Controlador para manejar las operaciones CRUD relacionadas con los Biológicos.
+    /// Proporciona métodos para obtener, agregar, actualizar y eliminar registros de Biológicos.
+    /// </summary>
     [ApiController]
     [Route("api/[controller]")]
     public class BiologicoController : ControllerBase

@@ -5,6 +5,12 @@ using AMVA.REDRIO.Repositories;
 
 namespace AMVA.REDRIO.Services
 {
+    /// <summary>
+    /// Servicio que proporciona métodos para gestionar las operaciones relacionadas con 
+    /// los objetos de tipo DocsCampaña. Utiliza un repositorio específico para realizar 
+    /// operaciones CRUD asincrónicas como obtener, agregar, actualizar, eliminar y 
+    /// obtener documentos relacionados con campañas específicas.
+    /// </summary>
    public class DocsCampañaService
 {
     private readonly IRepositoryDocsCampaña<DocsCampaña> _docsCampañaRepository;

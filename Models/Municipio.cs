@@ -3,6 +3,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+     /// <summary>
+    /// Modelo de  municipio, incluyendo su nombre, código y la referencia a un departamento al que pertenece.
+    /// </summary>
     [Table("MUNICIPIOS")]
     public class Municipio
     {

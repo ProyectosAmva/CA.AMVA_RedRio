@@ -7,6 +7,11 @@ using System.Threading.Tasks;
 
 namespace AMVA.REDRIO.Controllers
 {
+    /// <summary>
+/// Controlador de API para gestionar las estaciones. Permite realizar operaciones CRUD (crear, leer, actualizar y eliminar) sobre las estaciones.
+/// Incluye métodos para obtener todas las estaciones, buscar por ID o código, crear nuevas estaciones, actualizar sus datos y eliminarlas.
+/// Las respuestas de la API indican el éxito o fracaso de cada operación y devuelven los datos correspondientes cuando es necesario.
+/// </summary>
     [ApiController]
     [Route("api/[controller]")]
     public class EstacionController : ControllerBase
@@ -172,7 +177,6 @@ namespace AMVA.REDRIO.Controllers
                 existingEstacion.Minutos_latitud = estacion.Minutos_latitud;
                 existingEstacion.Minutos_longitud = estacion.Minutos_longitud;
                 existingEstacion.Fecha_actualizacion = DateTime.Now;
-
 
                 await _estacionService.UpdateAsync(existingEstacion);
 

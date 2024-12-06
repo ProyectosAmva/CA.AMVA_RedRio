@@ -3,6 +3,11 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+     /// <summary>
+    /// Modelo de muestra compuesta que incluye diferentes foraneas de
+    /// fisicoquímicos, biológicos y metálicos, permitiendo almacenar y asociar varias propiedades 
+    /// relacionadas con los parámetros de la muestra.
+    /// </summary>
     [Table("MUESTRA_COMPUESTA")]
     public class MuestraCompuesta
     {

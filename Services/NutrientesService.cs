@@ -5,6 +5,10 @@ using System.Threading.Tasks;
 
 namespace AMVA.REDRIO.Services
 {
+    /// <summary>
+    /// Servicio que gestiona las operaciones relacionadas con los objetos de tipo Nutriente. 
+    /// obtener, agregar, actualizar y eliminar los datos de Nutriente.
+    /// </summary>
     public class NutrienteService
     {
         private readonly IRepository<Nutriente> _nutrienteRepository;

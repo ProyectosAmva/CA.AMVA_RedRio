@@ -3,6 +3,10 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+     /// <summary>
+    /// Modelo de físicos relacionados
+    /// incluyendo características como caudal, color, sólidos suspendidos, entre otros.
+    /// </summary>
     [Table("FISICOS")]
     public class Fisico
     {

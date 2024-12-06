@@ -3,12 +3,23 @@ using AMVA.REDRIO.Models;
 
 namespace AMVA.REDRIO.Data
 {
+     /// <summary>
+    /// Contexto de base de datos para la aplicación.
+    /// Esta clase maneja las entidades del modelo y proporciona la conexión con la base de datos.
+    /// </summary>
     public class ApplicationDbContext : DbContext
     {
+        /// <summary>
+        /// Constructor que pasa las opciones de configuración al constructor base de DbContext.
+        /// </summary>
+        /// <param name="options">Opciones de configuración para la base de datos.</param>
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
         }
+         /// <summary>
+        /// Conjunto de entidades.
+        /// </summary>
 
         public DbSet<Departamento> Departamentos { get; set; }
         public DbSet<Municipio> Municipios { get; set; }

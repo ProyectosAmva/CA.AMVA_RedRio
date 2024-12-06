@@ -5,6 +5,12 @@ using AMVA.REDRIO.Repositories;
 
 namespace AMVA.REDRIO.Services
 {
+       /// <summary>
+    /// Servicio que proporciona métodos para gestionar las operaciones relacionadas con 
+    /// los objetos de tipo Documento. Utiliza un repositorio genérico para realizar 
+    /// operaciones CRUD asincrónicas como obtener, agregar, actualizar y eliminar 
+    /// datos de Documento.
+    /// </summary>
    public class DocumentoService
 {
     private readonly IRepository<Documento> _documentoRepository;

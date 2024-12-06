@@ -5,6 +5,12 @@ using System.Threading.Tasks;
 
 namespace AMVA.REDRIO.Services
 {
+     /// <summary>
+    /// Servicio que proporciona métodos para gestionar las operaciones relacionadas con 
+    /// los objetos de tipo Fisico. Utiliza un repositorio genérico para realizar 
+    /// operaciones CRUD asincrónicas como obtener, agregar, actualizar y eliminar 
+    /// datos de Fisico.
+    /// </summary>
     public class FisicoService
     {
         private readonly IRepository<Fisico> _fisicoRepository;

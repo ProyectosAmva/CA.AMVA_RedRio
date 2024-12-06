@@ -7,6 +7,11 @@ using System.Threading.Tasks;
 
 namespace AMVA.REDRIO.Controllers
 {
+    /// <summary>
+/// Controlador de API para gestionar los reportes de laboratorio.
+/// Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los reportes de laboratorio.
+/// Además, permite obtener los reportes filtrados por campaña.
+/// </summary>
     [ApiController]
     [Route("api/[controller]")]
     public class ReportesLaboratorioController : ControllerBase

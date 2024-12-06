@@ -8,6 +8,10 @@ using Microsoft.AspNetCore.Http;
 
 namespace AMVA.REDRIO.Controllers
 {
+    /// <summary>
+/// Controlador de API para gestionar los resultados de campo.
+/// Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los resultados de campo.
+/// </summary>
     [ApiController]
     [Route("api/[controller]")]
     public class ResultadoCampoController : ControllerBase

@@ -3,6 +3,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+       /// <summary>
+    /// Modelo  de nutrientes, incluyendo distintos compuestos como nitrógeno, fósforo y nitritos, entre otros.
+    /// </summary>
     [Table("NUTRIENTES")]
     public class Nutriente
     {

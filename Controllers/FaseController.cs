@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace AMVA.REDRIO.Controllers
 {
+    /// <summary>
+/// Controlador de API para gestionar las fases. Permite realizar operaciones CRUD sobre las fases, que incluyen obtener todas las fases,
+/// buscar una fase por su ID, crear nuevas fases, actualizar las existentes y eliminar fases. Las respuestas de la API
+/// </summary>
     [ApiController]
     [Route("api/[controller]")]
     public class FaseController : ControllerBase

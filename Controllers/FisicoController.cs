@@ -8,6 +8,10 @@ using Microsoft.AspNetCore.Http;
 
 namespace AMVA.REDRIO.Controllers
 {
+    /// <summary>
+/// Controlador de API para gestionar los datos físicos asociados a muestras. Permite realizar operaciones CRUD sobre los registros físicos,
+/// incluyendo obtener todos los registros, buscar por ID, crear nuevos registros, actualizar los existentes y eliminar registros. 
+/// </summary>
     [ApiController]
     [Route("api/[controller]")]
     public class FisicoController : ControllerBase

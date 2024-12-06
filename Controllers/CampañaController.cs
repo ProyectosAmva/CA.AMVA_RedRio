@@ -8,6 +8,10 @@ using Microsoft.AspNetCore.Http;
 
 namespace AMVA.REDRIO.Controllers
 {
+     /// <summary>
+    /// Controlador para manejar las operaciones CRUD relacionadas con las Campañas.
+    /// Proporciona métodos para obtener, agregar, actualizar y eliminar registros de Campañas.
+    /// </summary>
     [ApiController]
     [Route("api/[controller]")]
     public class CampañaController : ControllerBase

@@ -5,6 +5,11 @@ using System.Threading.Tasks;
 
 namespace AMVA.REDRIO.Services
 {
+     /// <summary>
+    /// Servicio que gestiona las operaciones relacionadas con los objetos de tipo Quimico.
+    /// para realizar operaciones CRUD asincrónicas, 
+    /// como obtener, agregar, actualizar y eliminar los datos de Quimico.
+    /// </summary>
     public class QuimicoService
     {
         private readonly IRepository<Quimico> _quimicoRepository;

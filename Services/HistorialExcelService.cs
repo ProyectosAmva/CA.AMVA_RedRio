@@ -7,6 +7,12 @@ namespace AMVA.REDRIO.Services
 {
    public class HistorialExcelService
 {
+    /// <summary>
+    /// Servicio que proporciona métodos para gestionar las operaciones relacionadas con 
+    /// los objetos de tipo HistorialExcel. Utiliza un repositorio específico para realizar 
+    /// operaciones CRUD asincrónicas como obtener, agregar, actualizar y eliminar datos de 
+    /// HistorialExcel, además de obtener registros por campaña.
+    /// </summary>
     private readonly IRepositoryHistorialExcel<HistorialExcel> _historialExcelRepository;
 
     public HistorialExcelService(IRepositoryHistorialExcel<HistorialExcel> historialExcelRepository)

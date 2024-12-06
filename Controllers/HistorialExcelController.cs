@@ -10,6 +10,11 @@ using System.IO;
 
 namespace AMVA.REDRIO.Controllers
 {
+    /// <summary>
+/// Controlador de API para gestionar los archivos de historial Excel. Permite realizar operaciones CRUD sobre los registros históricos de archivos Excel,
+/// incluyendo la obtención de todos los registros, búsqueda por ID, carga de archivos Excel, actualización y eliminación de registros,
+/// así como la descarga de los archivos Excel almacenados.
+/// </summary>
     [ApiController]
     [Route("api/[controller]")]
     public class HistorialExcelController : ControllerBase

@@ -8,6 +8,10 @@ using Microsoft.AspNetCore.Http;
 
 namespace AMVA.REDRIO.Controllers
 {
+    /// <summary>
+/// Controlador de API para gestionar los registros de mediciones de datos "Insitu". 
+/// Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los registros.
+/// </summary>
     [ApiController]
     [Route("api/[controller]")]
     public class InsituController : ControllerBase

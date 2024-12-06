@@ -3,6 +3,10 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+    /// <summary>
+    /// Modelo de informacion histórica relacionada con los archivos de Excel cargados,
+    /// incluyendo detalles sobre el archivo, fecha de carga, la campaña asociada y la última actualización.
+    /// </summary>
     [Table("HISTORIAL_EXCEL")]
     public class HistorialExcel
     {

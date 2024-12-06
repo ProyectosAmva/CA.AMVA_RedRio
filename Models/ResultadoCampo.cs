@@ -3,6 +3,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+      /// <summary>
+    /// Modelo de resultados de campo obtenidos durante las mediciones de calidad de agua o sedimentos.
+    /// </summary>
     [Table("RESULTADOS_CAMPO")]
     public class ResultadoCampo
     {

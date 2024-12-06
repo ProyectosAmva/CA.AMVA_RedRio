@@ -10,10 +10,17 @@ using System.IO;
 
 namespace AMVA.REDRIO.Controllers
 {
+     /// <summary>
+    /// Controlador encargado de gestionar los documentos: agregar, obtener, eliminar y descargar.
+    /// </summary>
     [ApiController]
     [Route("api/[controller]")]
     public class DocumentosController : ControllerBase
     {
+        /// <summary>
+        /// Constructor que inyecta los servicios necesarios: DocumentoService.
+        /// </summary>
+        /// <param name="webHostEnvironment">Entorno de alojamiento  para acceder al sistema de archivos.</param>
         private readonly DocumentoService _DocumentosService;
         private readonly IWebHostEnvironment _webHostEnvironment;
 

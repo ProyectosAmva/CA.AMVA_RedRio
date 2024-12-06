@@ -3,6 +3,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+    /// <summary>
+    /// Modelode químico, como sustancias activas, metales y compuestos, en una muestra específica.
+    /// </summary>
     [Table("QUIMICOS")]
     public class Quimico
     {

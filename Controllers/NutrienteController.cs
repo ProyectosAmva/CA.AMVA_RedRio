@@ -8,6 +8,11 @@ using Microsoft.AspNetCore.Http;
 
 namespace AMVA.REDRIO.Controllers
 {
+    /// <summary>
+/// Controlador de API para gestionar los registros de nutrientes. 
+/// Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los registros de nutrientes,
+/// así como obtener información detallada de un nutriente específico o todos los nutrientes.
+/// </summary>
     [ApiController]
     [Route("api/[controller]")]
     public class NutrienteController : ControllerBase

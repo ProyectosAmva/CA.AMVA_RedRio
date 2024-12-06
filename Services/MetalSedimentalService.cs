@@ -5,6 +5,12 @@ using AMVA.REDRIO.Repositories;
 
 namespace AMVA.REDRIO.Services
 {
+     /// <summary>
+    /// Servicio que proporciona métodos para gestionar las operaciones relacionadas con 
+    /// los objetos de tipo MetalSedimental. Utiliza un repositorio genérico para realizar 
+    /// operaciones CRUD asincrónicas como obtener, agregar, actualizar y eliminar 
+    /// datos de MetalSedimental.
+    /// </summary>
     public class MetalSedimentalService
     {
         private readonly IRepository<MetalSedimental> _metalSedimentalRepository;

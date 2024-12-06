@@ -42,6 +42,7 @@ C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA
 C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA.REDRIO\obj\Debug\net8.0\AMVA.REDRIO.csproj.CoreCompileInputs.cache
 C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA.REDRIO\obj\Debug\net8.0\AMVA.REDRIO.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA.REDRIO\obj\Debug\net8.0\AMVA.REDRIO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA.REDRIO\obj\Debug\net8.0\AMVA.REDRIO.sourcelink.json
 C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA.REDRIO\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA.REDRIO\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA.REDRIO\obj\Debug\net8.0\staticwebassets\msbuild.AMVA.REDRIO.Microsoft.AspNetCore.StaticWebAssets.props
@@ -56,4 +57,3 @@ C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA
 C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA.REDRIO\obj\Debug\net8.0\AMVA.REDRIO.pdb
 C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA.REDRIO\obj\Debug\net8.0\AMVA.REDRIO.genruntimeconfig.cache
 C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA.REDRIO\obj\Debug\net8.0\ref\AMVA.REDRIO.dll
-C:\Users\claudia.dorado\Documents\REDRIOMicroservicios\REDRIOMicroservicios\AMVA.REDRIO\obj\Debug\net8.0\AMVA.REDRIO.sourcelink.json

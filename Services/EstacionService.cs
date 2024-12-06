@@ -5,6 +5,12 @@ using AMVA.REDRIO.Repositories;
 
 namespace AMVA.REDRIO.Services
 {
+    /// <summary>
+    /// Servicio que proporciona métodos para gestionar las operaciones relacionadas con 
+    /// los objetos de tipo Estacion. Utiliza un repositorio específico para realizar 
+    /// operaciones CRUD asincrónicas como obtener, agregar, actualizar, eliminar y 
+    /// obtener estaciones por su código.
+    /// </summary>
     public class EstacionService
     {
         private readonly IRepositoryEstacion<Estacion> _estacionRepository;

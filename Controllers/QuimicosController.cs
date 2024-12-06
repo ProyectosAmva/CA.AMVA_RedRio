@@ -8,6 +8,11 @@ using Microsoft.AspNetCore.Http;
 
 namespace AMVA.REDRIO.Controllers
 {
+    /// <summary>
+/// Controlador de API para gestionar los registros de químicos.
+/// Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los registros de químicos,
+/// así como obtener información detallada de un químico específico o todos los químicos.
+/// </summary>
     [ApiController]
     [Route("api/[controller]")]
     public class QuimicoController : ControllerBase

@@ -3,6 +3,10 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AMVA.REDRIO.Models
 {
+    /// <summary>
+    /// modelo documento cargado en el sistema, incluyendo información sobre su nombre, 
+    /// URL, fechas de carga y actualización, y su estado actual.
+    /// </summary>
     [Table("DOCUMENTOS")]
     public class Documento
     {
