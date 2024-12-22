@@ -125,7 +125,25 @@ namespace AMVA.REDRIO.Controllers
                         return StatusCode(StatusCodes.Status500InternalServerError, responseError);
                     }
                 }
+    public string SanearNombreArchivo(string nombreArchivo)
+    {
+        // Obtener los caracteres no válidos para los nombres de archivo en el sistema operativo
+        char[] invalidChars = Path.GetInvalidFileNameChars();
 
+        // Reemplazar todos los caracteres no válidos por un guion bajo
+        foreach (var invalidChar in invalidChars)
+        {
+            nombreArchivo = nombreArchivo.Replace(invalidChar.ToString(), "_");
+        }
+
+        // Reemplazar paréntesis por guiones bajos, ya que pueden causar problemas en URLs y en algunos contextos
+        nombreArchivo = nombreArchivo.Replace("(", "_").Replace(")", "_");
+
+        // Reemplazar también los espacios por guiones bajos si es necesario
+        nombreArchivo = nombreArchivo.Replace(" ", "_");
+
+        return nombreArchivo;
+    }
         [Route("AgregarHistorialExcel")]
     [HttpPost]
     public async Task<ActionResult<Response>> AddHistorialExcel([FromForm] IFormFile file, [FromForm] int IdUsuario, [FromForm] int IdCampaña)
@@ -160,11 +178,15 @@ namespace AMVA.REDRIO.Controllers
 
             string dateString = DateTime.Now.ToString("yyyyMMdd_HHmmss");
             string originalFileName = Path.GetFileNameWithoutExtension(file.FileName);
+            originalFileName = SanearNombreArchivo(originalFileName);
             string fileExtension = Path.GetExtension(file.FileName);
             string newFileName = $"{dateString}_{originalFileName}{fileExtension}";
 
             string filePath = Path.Combine(folderPath, newFileName);
-
+            if (filePath.IndexOfAny(Path.GetInvalidPathChars()) != -1)
+            {
+                throw new ArgumentException("La ruta contiene caracteres no válidos.");
+            }
             using (var stream = new FileStream(filePath, FileMode.Create))
             {
                 await file.CopyToAsync(stream);

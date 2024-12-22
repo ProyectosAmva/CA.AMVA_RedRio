@@ -30,67 +30,98 @@ namespace AMVA.REDRIO.Controllers
             _webHostEnvironment = webHostEnvironment;
         }
 
-        [HttpPost("AgregarDocumento")]
-        public async Task<ActionResult<Response>> AddDocumento([FromForm] IFormFile file)
+        public string SanearNombreArchivo(string nombreArchivo)
         {
-            try
+            // Obtener los caracteres no válidos para los nombres de archivo en el sistema operativo
+            char[] invalidChars = Path.GetInvalidFileNameChars();
+
+            // Reemplazar todos los caracteres no válidos por un guion bajo
+            foreach (var invalidChar in invalidChars)
             {
-                if (file == null || file.Length == 0)
-                {
-                    return BadRequest(new Response
-                    {
-                        IsSuccess = false,
-                        MessageError = "No file was uploaded."
-                    });
-                }
-
-                string folderPath = Path.Combine(_webHostEnvironment.WebRootPath, "uploads", "Documentos");
-
-                if (!Directory.Exists(folderPath))
-                {
-                    Directory.CreateDirectory(folderPath);
-                }
-
-                string dateString = DateTime.Now.ToString("yyyyMMdd_HHmmss");
-                string originalFileName = Path.GetFileNameWithoutExtension(file.FileName);
-                string fileExtension = Path.GetExtension(file.FileName);
-                string newFileName = $"{dateString}_{originalFileName}{fileExtension}";
-
-                string filePath = Path.Combine(folderPath, newFileName);
-
-                using (var stream = new FileStream(filePath, FileMode.Create))
-                {
-                    await file.CopyToAsync(stream);
-                }
-
-                var Documento = new Documento
-                {
-                    Fecha_cargue = DateTime.Now,
-                    Url = $"/uploads/Documentos/{newFileName}",
-                    Nombre = originalFileName,
-                };
-
-                await _DocumentosService.AddAsync(Documento);
-
-                var responseCreated = new Response
-                {
-                    IsSuccess = true,
-                    Message = "Documento created successfully",
-                    Result = Documento
-                };
-                return CreatedAtAction(nameof(GetByIdDocumento), new { id = Documento.Id_Documento }, responseCreated);
+                nombreArchivo = nombreArchivo.Replace(invalidChar.ToString(), "_");
             }
-            catch (Exception ex)
+
+            // Reemplazar paréntesis por guiones bajos, ya que pueden causar problemas en URLs y en algunos contextos
+            nombreArchivo = nombreArchivo.Replace("(", "_").Replace(")", "_");
+
+            // Reemplazar también los espacios por guiones bajos si es necesario
+            nombreArchivo = nombreArchivo.Replace(" ", "_");
+
+            return nombreArchivo;
+        }
+
+
+        [HttpPost("AgregarDocumento")]
+    public async Task<ActionResult<Response>> AddDocumento([FromForm] IFormFile file)
+    {
+        try
+        {
+            if (file == null || file.Length == 0)
             {
-                var responseError = new Response
+                return BadRequest(new Response
                 {
                     IsSuccess = false,
-                    MessageError = "Error creating Documento",
-                    Error = ex.Message
-                };
-                return StatusCode(StatusCodes.Status500InternalServerError, responseError);
+                    MessageError = "No file was uploaded."
+                });
             }
+
+            string folderPath = Path.Combine(_webHostEnvironment.WebRootPath, "uploads", "Documentos");
+
+            if (!Directory.Exists(folderPath))
+            {
+                Directory.CreateDirectory(folderPath);
+            }
+
+            string dateString = DateTime.Now.ToString("yyyyMMdd_HHmmss");
+            string originalFileName = Path.GetFileNameWithoutExtension(file.FileName);
+
+            // Limpiar el nombre del archivo
+            originalFileName = SanearNombreArchivo(originalFileName);
+
+            string fileExtension = Path.GetExtension(file.FileName);
+            string newFileName = $"{dateString}_{originalFileName}{fileExtension}";
+
+            string filePath = Path.Combine(folderPath, newFileName);
+
+            // Verificar si la ruta es válida antes de escribir el archivo
+            if (filePath.IndexOfAny(Path.GetInvalidPathChars()) != -1)
+            {
+                throw new ArgumentException("La ruta contiene caracteres no válidos.");
+            }
+
+            using (var stream = new FileStream(filePath, FileMode.Create))
+            {
+                await file.CopyToAsync(stream);
+            }
+
+            var Documento = new Documento
+            {
+                Fecha_cargue = DateTime.Now,
+                Url = $"/uploads/Documentos/{newFileName}",
+                Nombre = originalFileName,
+            };
+
+            await _DocumentosService.AddAsync(Documento);
+
+            var responseCreated = new Response
+            {
+                IsSuccess = true,
+                Message = "Documento created successfully",
+                Result = Documento
+            };
+            return CreatedAtAction(nameof(GetByIdDocumento), new { id = Documento.Id_Documento }, responseCreated);
         }
+        catch (Exception ex)
+        {
+            var responseError = new Response
+            {
+                IsSuccess = false,
+                MessageError = "Error creating Documento",
+                Error = ex.Message
+            };
+            return StatusCode(StatusCodes.Status500InternalServerError, responseError);
+        }
+    }
 
         [HttpGet("ObtenerDocumento/{id}")]
         public async Task<ActionResult<Response>> GetByIdDocumento(int id)
