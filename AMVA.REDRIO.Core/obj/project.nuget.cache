@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "frW2jEgL+5o=",
+  "dgSpecHash": "0cjsp94F75U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO.Core\\AMVA.REDRIO.Core.csproj",
+  "projectFilePath": "C:\\Users\\REDRIO\\Documents\\REDRIO\\RespaldoRedrioMicroServicios\\AMVA.REDRIO.Core\\AMVA.REDRIO.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Acer2025\\.nuget\\packages\\devextreme.aspnet.data\\4.0.0\\devextreme.aspnet.data.4.0.0.nupkg.sha512",
-    "C:\\Users\\Acer2025\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\REDRIO\\.nuget\\packages\\devextreme.aspnet.data\\4.0.0\\devextreme.aspnet.data.4.0.0.nupkg.sha512",
+    "C:\\Users\\REDRIO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

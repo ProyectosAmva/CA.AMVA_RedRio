@@ -84,23 +84,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Acer2025\\.nuget\\packages\\": {},
+    "C:\\Users\\REDRIO\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO.Core\\AMVA.REDRIO.Core.csproj",
+      "projectUniqueName": "C:\\Users\\REDRIO\\Documents\\REDRIO\\RespaldoRedrioMicroServicios\\AMVA.REDRIO.Core\\AMVA.REDRIO.Core.csproj",
       "projectName": "AMVA.REDRIO.Core",
-      "projectPath": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO.Core\\AMVA.REDRIO.Core.csproj",
-      "packagesPath": "C:\\Users\\Acer2025\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO.Core\\obj\\",
+      "projectPath": "C:\\Users\\REDRIO\\Documents\\REDRIO\\RespaldoRedrioMicroServicios\\AMVA.REDRIO.Core\\AMVA.REDRIO.Core.csproj",
+      "packagesPath": "C:\\Users\\REDRIO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\REDRIO\\Documents\\REDRIO\\RespaldoRedrioMicroServicios\\AMVA.REDRIO.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Acer2025\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\REDRIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

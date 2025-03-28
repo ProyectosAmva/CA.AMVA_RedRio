@@ -21,6 +21,7 @@ wwwroot\uploads\Documentos\20250327_175411_Resultados_Diagnóstico_Municipal_ADI
 wwwroot\uploads\Documentos\20250327_175613_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf
 wwwroot\uploads\Documentos\20250327_184537_sql.pdf
 wwwroot\uploads\Documentos\20250327_191507_sql.pdf
+wwwroot\uploads\Documentos\20250327_201840_sql.pdf
 wwwroot\uploads\excel\20241220_125715_Plantilla_Reporte_Laboratorio.xlsx
 wwwroot\uploads\excel\20241220_125823_Plantilla_Reporte _Campo.xlsx
 wwwroot\uploads\excel\20241221_193036_Plantilla_Reporte__Campo.xlsx

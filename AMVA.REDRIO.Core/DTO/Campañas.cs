@@ -9,7 +9,7 @@ namespace AMVA.REDRIO.Core.DTO;
     /// modelo de campaña que tiene un nombre, una descripción, fechas de inicio y fin, 
     /// una fase asociada y un usuario responsable.
     /// </summary>
-      [Table("CAMPANAS")]
+      [Table("CAMPAÑAS")]
     public class Campaña
     {
         [Key]

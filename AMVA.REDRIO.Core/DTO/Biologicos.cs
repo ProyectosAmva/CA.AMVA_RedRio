@@ -6,10 +6,11 @@ using Newtonsoft.Json;
 
 namespace AMVA.REDRIO.Core.DTO;
 
-      /// <summary>
-    /// modelo  de registro componente biológico, incluyendo diversos parámetros.
-    /// </summary>
-    public class Biologico
+/// <summary>
+/// modelo  de registro componente biológico, incluyendo diversos parámetros.
+/// </summary>
+[Table("BIOLOGICOS")]
+public class Biologico
     {
         [Key]
         [JsonProperty("ID_BIOLOGICO")]

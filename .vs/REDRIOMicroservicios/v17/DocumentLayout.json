@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\",
+  "WorkspaceRootPath": "C:\\Users\\REDRIO\\Documents\\REDRIO\\RespaldoRedrioMicroServicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BE64D8E-3546-FAB2-E4EB-7B7CD532096A}|AMVA.REDRIO\\AMVA.REDRIO.csproj|c:\\users\\acer2025\\documents\\carpetsredrio\\redriomicroservicios\\amva.redrio\\controllers\\endpoints\\biologicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB2194A3-040C-4A1A-AB2D-5E07BEEDD6AD}|AMVA.REDRIO.Core\\AMVA.REDRIO.Core.csproj|c:\\users\\redrio\\documents\\redrio\\respaldoredriomicroservicios\\amva.redrio.core\\dto\\biologicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB2194A3-040C-4A1A-AB2D-5E07BEEDD6AD}|AMVA.REDRIO.Core\\AMVA.REDRIO.Core.csproj|solutionrelative:amva.redrio.core\\dto\\biologicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2194A3-040C-4A1A-AB2D-5E07BEEDD6AD}|AMVA.REDRIO.Core\\AMVA.REDRIO.Core.csproj|c:\\users\\redrio\\documents\\redrio\\respaldoredriomicroservicios\\amva.redrio.core\\dto\\campa\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB2194A3-040C-4A1A-AB2D-5E07BEEDD6AD}|AMVA.REDRIO.Core\\AMVA.REDRIO.Core.csproj|solutionrelative:amva.redrio.core\\dto\\campa\u00F1as.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BE64D8E-3546-FAB2-E4EB-7B7CD532096A}|AMVA.REDRIO\\AMVA.REDRIO.csproj|c:\\users\\redrio\\documents\\redrio\\respaldoredriomicroservicios\\amva.redrio\\controllers\\endpoints\\biologicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BE64D8E-3546-FAB2-E4EB-7B7CD532096A}|AMVA.REDRIO\\AMVA.REDRIO.csproj|solutionrelative:amva.redrio\\controllers\\endpoints\\biologicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,12 +37,42 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Campa\u00F1as.cs",
+              "DocumentMoniker": "C:\\Users\\REDRIO\\Documents\\REDRIO\\RespaldoRedrioMicroServicios\\AMVA.REDRIO.Core\\DTO\\Campa\u00F1as.cs",
+              "RelativeDocumentMoniker": "AMVA.REDRIO.Core\\DTO\\Campa\u00F1as.cs",
+              "ToolTip": "C:\\Users\\REDRIO\\Documents\\REDRIO\\RespaldoRedrioMicroServicios\\AMVA.REDRIO.Core\\DTO\\Campa\u00F1as.cs",
+              "RelativeToolTip": "AMVA.REDRIO.Core\\DTO\\Campa\u00F1as.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:44:03.676Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Biologicos.cs",
+              "DocumentMoniker": "C:\\Users\\REDRIO\\Documents\\REDRIO\\RespaldoRedrioMicroServicios\\AMVA.REDRIO.Core\\DTO\\Biologicos.cs",
+              "RelativeDocumentMoniker": "AMVA.REDRIO.Core\\DTO\\Biologicos.cs",
+              "ToolTip": "C:\\Users\\REDRIO\\Documents\\REDRIO\\RespaldoRedrioMicroServicios\\AMVA.REDRIO.Core\\DTO\\Biologicos.cs",
+              "RelativeToolTip": "AMVA.REDRIO.Core\\DTO\\Biologicos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:43:56.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BiologicoController.cs",
-              "DocumentMoniker": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\Controllers\\EndPoints\\BiologicoController.cs",
+              "DocumentMoniker": "C:\\Users\\REDRIO\\Documents\\REDRIO\\RespaldoRedrioMicroServicios\\AMVA.REDRIO\\Controllers\\EndPoints\\BiologicoController.cs",
               "RelativeDocumentMoniker": "AMVA.REDRIO\\Controllers\\EndPoints\\BiologicoController.cs",
-              "ToolTip": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\Controllers\\EndPoints\\BiologicoController.cs",
+              "ToolTip": "C:\\Users\\REDRIO\\Documents\\REDRIO\\RespaldoRedrioMicroServicios\\AMVA.REDRIO\\Controllers\\EndPoints\\BiologicoController.cs",
               "RelativeToolTip": "AMVA.REDRIO\\Controllers\\EndPoints\\BiologicoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
