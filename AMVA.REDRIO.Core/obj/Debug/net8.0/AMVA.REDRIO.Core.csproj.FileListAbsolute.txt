@@ -1,0 +1,12 @@
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Core\bin\Debug\net8.0\AMVA.REDRIO.Core.deps.json
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Core\bin\Debug\net8.0\AMVA.REDRIO.Core.dll
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Core\bin\Debug\net8.0\AMVA.REDRIO.Core.pdb
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Core\obj\Debug\net8.0\AMVA.REDRIO.Core.csproj.AssemblyReference.cache
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Core\obj\Debug\net8.0\AMVA.REDRIO.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Core\obj\Debug\net8.0\AMVA.REDRIO.Core.AssemblyInfoInputs.cache
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Core\obj\Debug\net8.0\AMVA.REDRIO.Core.AssemblyInfo.cs
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Core\obj\Debug\net8.0\AMVA.REDRIO.Core.csproj.CoreCompileInputs.cache
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Core\obj\Debug\net8.0\AMVA.REDRIO.Core.dll
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Core\obj\Debug\net8.0\refint\AMVA.REDRIO.Core.dll
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Core\obj\Debug\net8.0\AMVA.REDRIO.Core.pdb
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Core\obj\Debug\net8.0\ref\AMVA.REDRIO.Core.dll

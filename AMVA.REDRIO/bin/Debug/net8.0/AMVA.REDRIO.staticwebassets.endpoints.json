@@ -1,0 +1,2220 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "uploads/Documentos/20241115_160418_PlantillaLABORATORIO.cgqu94r9ux.xlsx",
+      "AssetFile": "uploads/Documentos/20241115_160418_PlantillaLABORATORIO.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cgqu94r9ux"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241115_160418_PlantillaLABORATORIO.xlsx"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_160418_PlantillaLABORATORIO.xlsx",
+      "AssetFile": "uploads/Documentos/20241115_160418_PlantillaLABORATORIO.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_163202_Plantilla Reporte Campo error.5azc34hoqo.xlsx",
+      "AssetFile": "uploads/Documentos/20241115_163202_Plantilla Reporte Campo error.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ncBQciVcfAJr7vetJ9hIo4esGvLhYQ29ya2SXcB5v44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5azc34hoqo"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ncBQciVcfAJr7vetJ9hIo4esGvLhYQ29ya2SXcB5v44="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241115_163202_Plantilla Reporte Campo error.xlsx"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_163202_Plantilla Reporte Campo error.xlsx",
+      "AssetFile": "uploads/Documentos/20241115_163202_Plantilla Reporte Campo error.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ncBQciVcfAJr7vetJ9hIo4esGvLhYQ29ya2SXcB5v44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ncBQciVcfAJr7vetJ9hIo4esGvLhYQ29ya2SXcB5v44="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_164730_Campañas.js",
+      "AssetFile": "uploads/Documentos/20241115_164730_Campañas.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_164730_Campañas.rq727xgbq9.js",
+      "AssetFile": "uploads/Documentos/20241115_164730_Campañas.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rq727xgbq9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241115_164730_Campañas.js"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_164810_Captura de pantalla (2).ogm71uab1i.png",
+      "AssetFile": "uploads/Documentos/20241115_164810_Captura de pantalla (2).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "179307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ogm71uab1i"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241115_164810_Captura de pantalla (2).png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_164810_Captura de pantalla (2).png",
+      "AssetFile": "uploads/Documentos/20241115_164810_Captura de pantalla (2).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "179307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_171650_Campañas.js",
+      "AssetFile": "uploads/Documentos/20241115_171650_Campañas.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_171650_Campañas.rq727xgbq9.js",
+      "AssetFile": "uploads/Documentos/20241115_171650_Campañas.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rq727xgbq9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241115_171650_Campañas.js"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241116_143835_Campañas.js",
+      "AssetFile": "uploads/Documentos/20241116_143835_Campañas.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241116_143835_Campañas.rq727xgbq9.js",
+      "AssetFile": "uploads/Documentos/20241116_143835_Campañas.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rq727xgbq9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241116_143835_Campañas.js"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241116_144127_PlantillaLABORATORIO.cgqu94r9ux.xlsx",
+      "AssetFile": "uploads/Documentos/20241116_144127_PlantillaLABORATORIO.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cgqu94r9ux"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241116_144127_PlantillaLABORATORIO.xlsx"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241116_144127_PlantillaLABORATORIO.xlsx",
+      "AssetFile": "uploads/Documentos/20241116_144127_PlantillaLABORATORIO.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241220_065726_PlantillaLaboratorio_campaña06-09.tt47jkdi2w.xlsx",
+      "AssetFile": "uploads/Documentos/20241220_065726_PlantillaLaboratorio_campaña06-09.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z9jIqwEKJy6BcfxCnuYE+NK5dpU5YO+l+bsedO7p/2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tt47jkdi2w"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z9jIqwEKJy6BcfxCnuYE+NK5dpU5YO+l+bsedO7p/2s="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241220_065726_PlantillaLaboratorio_campaña06-09.xlsx"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241220_065726_PlantillaLaboratorio_campaña06-09.xlsx",
+      "AssetFile": "uploads/Documentos/20241220_065726_PlantillaLaboratorio_campaña06-09.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z9jIqwEKJy6BcfxCnuYE+NK5dpU5YO+l+bsedO7p/2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z9jIqwEKJy6BcfxCnuYE+NK5dpU5YO+l+bsedO7p/2s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241221_194311_Captura_de_pantalla_(2).ogm71uab1i.png",
+      "AssetFile": "uploads/Documentos/20241221_194311_Captura_de_pantalla_(2).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "179307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ogm71uab1i"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241221_194311_Captura_de_pantalla_(2).png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241221_194311_Captura_de_pantalla_(2).png",
+      "AssetFile": "uploads/Documentos/20241221_194311_Captura_de_pantalla_(2).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "179307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241221_195041_Captura de pantalla _3_.png",
+      "AssetFile": "uploads/Documentos/20241221_195041_Captura de pantalla _3_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DbaIARnmwI0H2Z0G5vyPM3cJ6YMh+mAx/B7ITpTorzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DbaIARnmwI0H2Z0G5vyPM3cJ6YMh+mAx/B7ITpTorzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241221_195041_Captura de pantalla _3_.xnrs75mtfh.png",
+      "AssetFile": "uploads/Documentos/20241221_195041_Captura de pantalla _3_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DbaIARnmwI0H2Z0G5vyPM3cJ6YMh+mAx/B7ITpTorzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnrs75mtfh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DbaIARnmwI0H2Z0G5vyPM3cJ6YMh+mAx/B7ITpTorzU="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241221_195041_Captura de pantalla _3_.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241221_195925_Captura_de_pantalla__5_.png",
+      "AssetFile": "uploads/Documentos/20241221_195925_Captura_de_pantalla__5_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J/Ia7/R253RNowp7Ulb16X+sP1gvxSFCOQKnu391WdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J/Ia7/R253RNowp7Ulb16X+sP1gvxSFCOQKnu391WdY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241221_195925_Captura_de_pantalla__5_.rfbdrz5nm0.png",
+      "AssetFile": "uploads/Documentos/20241221_195925_Captura_de_pantalla__5_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J/Ia7/R253RNowp7Ulb16X+sP1gvxSFCOQKnu391WdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rfbdrz5nm0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J/Ia7/R253RNowp7Ulb16X+sP1gvxSFCOQKnu391WdY="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241221_195925_Captura_de_pantalla__5_.png"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241221_200003_Plantilla_Reporte__Campo.6c2oc15w4s.xlsx",
+      "AssetFile": "uploads/Documentos/20241221_200003_Plantilla_Reporte__Campo.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6c2oc15w4s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241221_200003_Plantilla_Reporte__Campo.xlsx"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241221_200003_Plantilla_Reporte__Campo.xlsx",
+      "AssetFile": "uploads/Documentos/20241221_200003_Plantilla_Reporte__Campo.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250326_220711_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "uploads/Documentos/20250326_220711_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 03:07:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250326_220711_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250326_220711_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "uploads/Documentos/20250326_220711_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 03:07:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250326_220820_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "uploads/Documentos/20250326_220820_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 03:08:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250326_220820_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250326_220820_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "uploads/Documentos/20250326_220820_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 03:08:20 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_173906_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "uploads/Documentos/20250327_173906_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:39:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_173906_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_173906_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "uploads/Documentos/20250327_173906_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:39:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_174112_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "uploads/Documentos/20250327_174112_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:41:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_174112_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_174112_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "uploads/Documentos/20250327_174112_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:41:12 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_174649_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "uploads/Documentos/20250327_174649_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:46:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_174649_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_174649_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "uploads/Documentos/20250327_174649_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:46:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_174808_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "uploads/Documentos/20250327_174808_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:48:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_174808_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_174808_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "uploads/Documentos/20250327_174808_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:48:08 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_175022_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "uploads/Documentos/20250327_175022_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:50:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_175022_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_175022_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "uploads/Documentos/20250327_175022_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:50:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_175411_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "uploads/Documentos/20250327_175411_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:54:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_175411_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_175411_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "uploads/Documentos/20250327_175411_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:54:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_175613_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "uploads/Documentos/20250327_175613_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:56:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_175613_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_175613_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "uploads/Documentos/20250327_175613_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:56:13 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_184537_sql.1hsbw9gab2.pdf",
+      "AssetFile": "uploads/Documentos/20250327_184537_sql.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142801"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 23:45:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hsbw9gab2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_184537_sql.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_184537_sql.pdf",
+      "AssetFile": "uploads/Documentos/20250327_184537_sql.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142801"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 23:45:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_191507_sql.1hsbw9gab2.pdf",
+      "AssetFile": "uploads/Documentos/20250327_191507_sql.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142801"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:15:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hsbw9gab2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_191507_sql.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_191507_sql.pdf",
+      "AssetFile": "uploads/Documentos/20250327_191507_sql.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142801"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:15:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/excel/20241220_125715_Plantilla_Reporte_Laboratorio.3ueq4r7rqr.xlsx",
+      "AssetFile": "uploads/excel/20241220_125715_Plantilla_Reporte_Laboratorio.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ueq4r7rqr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/excel/20241220_125715_Plantilla_Reporte_Laboratorio.xlsx"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/excel/20241220_125715_Plantilla_Reporte_Laboratorio.xlsx",
+      "AssetFile": "uploads/excel/20241220_125715_Plantilla_Reporte_Laboratorio.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/excel/20241220_125823_Plantilla_Reporte _Campo.6c2oc15w4s.xlsx",
+      "AssetFile": "uploads/excel/20241220_125823_Plantilla_Reporte _Campo.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6c2oc15w4s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/excel/20241220_125823_Plantilla_Reporte _Campo.xlsx"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/excel/20241220_125823_Plantilla_Reporte _Campo.xlsx",
+      "AssetFile": "uploads/excel/20241220_125823_Plantilla_Reporte _Campo.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/excel/20241221_193036_Plantilla_Reporte__Campo.6c2oc15w4s.xlsx",
+      "AssetFile": "uploads/excel/20241221_193036_Plantilla_Reporte__Campo.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6c2oc15w4s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/excel/20241221_193036_Plantilla_Reporte__Campo.xlsx"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/excel/20241221_193036_Plantilla_Reporte__Campo.xlsx",
+      "AssetFile": "uploads/excel/20241221_193036_Plantilla_Reporte__Campo.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/excel/20241221_200606_Plantilla_Reporte_Laboratorio_1_.3ueq4r7rqr.xlsx",
+      "AssetFile": "uploads/excel/20241221_200606_Plantilla_Reporte_Laboratorio_1_.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ueq4r7rqr"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/excel/20241221_200606_Plantilla_Reporte_Laboratorio_1_.xlsx"
+        }
+      ]
+    },
+    {
+      "Route": "uploads/excel/20241221_200606_Plantilla_Reporte_Laboratorio_1_.xlsx",
+      "AssetFile": "uploads/excel/20241221_200606_Plantilla_Reporte_Laboratorio_1_.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI="
+        }
+      ]
+    }
+  ]
+}

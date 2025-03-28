@@ -1,0 +1,2803 @@
+{
+  "Version": 1,
+  "Hash": "hIiKM8UND8omdjwhK9pZpioIIgAsNqTsovSLDySGcfc=",
+  "Source": "AMVA.REDRIO",
+  "BasePath": "_content/AMVA.REDRIO",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AMVA.REDRIO\\wwwroot",
+      "Source": "AMVA.REDRIO",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_160418_PlantillaLABORATORIO.xlsx",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20241115_160418_PlantillaLABORATORIO#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cgqu94r9ux",
+      "Integrity": "bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20241115_160418_PlantillaLABORATORIO.xlsx"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_163202_Plantilla Reporte Campo error.xlsx",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20241115_163202_Plantilla Reporte Campo error#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5azc34hoqo",
+      "Integrity": "ncBQciVcfAJr7vetJ9hIo4esGvLhYQ29ya2SXcB5v44=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20241115_163202_Plantilla Reporte Campo error.xlsx"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_164730_Campañas.js",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20241115_164730_Campañas#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rq727xgbq9",
+      "Integrity": "TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20241115_164730_Campañas.js"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_164810_Captura de pantalla (2).png",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20241115_164810_Captura de pantalla (2)#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ogm71uab1i",
+      "Integrity": "eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20241115_164810_Captura de pantalla (2).png"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_171650_Campañas.js",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20241115_171650_Campañas#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rq727xgbq9",
+      "Integrity": "TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20241115_171650_Campañas.js"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241116_143835_Campañas.js",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20241116_143835_Campañas#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rq727xgbq9",
+      "Integrity": "TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20241116_143835_Campañas.js"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241116_144127_PlantillaLABORATORIO.xlsx",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20241116_144127_PlantillaLABORATORIO#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cgqu94r9ux",
+      "Integrity": "bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20241116_144127_PlantillaLABORATORIO.xlsx"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241220_065726_PlantillaLaboratorio_campaña06-09.xlsx",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20241220_065726_PlantillaLaboratorio_campaña06-09#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tt47jkdi2w",
+      "Integrity": "z9jIqwEKJy6BcfxCnuYE+NK5dpU5YO+l+bsedO7p/2s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20241220_065726_PlantillaLaboratorio_campaña06-09.xlsx"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241221_194311_Captura_de_pantalla_(2).png",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20241221_194311_Captura_de_pantalla_(2)#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ogm71uab1i",
+      "Integrity": "eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20241221_194311_Captura_de_pantalla_(2).png"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241221_195041_Captura de pantalla _3_.png",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20241221_195041_Captura de pantalla _3_#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xnrs75mtfh",
+      "Integrity": "DbaIARnmwI0H2Z0G5vyPM3cJ6YMh+mAx/B7ITpTorzU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20241221_195041_Captura de pantalla _3_.png"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241221_195925_Captura_de_pantalla__5_.png",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20241221_195925_Captura_de_pantalla__5_#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rfbdrz5nm0",
+      "Integrity": "J/Ia7/R253RNowp7Ulb16X+sP1gvxSFCOQKnu391WdY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20241221_195925_Captura_de_pantalla__5_.png"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241221_200003_Plantilla_Reporte__Campo.xlsx",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20241221_200003_Plantilla_Reporte__Campo#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6c2oc15w4s",
+      "Integrity": "1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20241221_200003_Plantilla_Reporte__Campo.xlsx"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250326_220711_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20250326_220711_Resultados_Diagnóstico_Municipal_ADIQUIM#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i61pprko9g",
+      "Integrity": "xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20250326_220711_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250326_220820_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20250326_220820_Resultados_Diagnóstico_Municipal_ADIQUIM#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i61pprko9g",
+      "Integrity": "xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20250326_220820_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_173906_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20250327_173906_Resultados_Diagnóstico_Municipal_ADIQUIM#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i61pprko9g",
+      "Integrity": "xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20250327_173906_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_174112_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20250327_174112_Resultados_Diagnóstico_Municipal_ADIQUIM#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i61pprko9g",
+      "Integrity": "xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20250327_174112_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_174649_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20250327_174649_Resultados_Diagnóstico_Municipal_ADIQUIM#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i61pprko9g",
+      "Integrity": "xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20250327_174649_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_174808_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20250327_174808_Resultados_Diagnóstico_Municipal_ADIQUIM#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i61pprko9g",
+      "Integrity": "xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20250327_174808_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_175022_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20250327_175022_Resultados_Diagnóstico_Municipal_ADIQUIM#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i61pprko9g",
+      "Integrity": "xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20250327_175022_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_175411_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20250327_175411_Resultados_Diagnóstico_Municipal_ADIQUIM#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i61pprko9g",
+      "Integrity": "xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20250327_175411_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_175613_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20250327_175613_Resultados_Diagnóstico_Municipal_ADIQUIM#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i61pprko9g",
+      "Integrity": "xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20250327_175613_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_184537_sql.pdf",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20250327_184537_sql#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1hsbw9gab2",
+      "Integrity": "5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20250327_184537_sql.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_191507_sql.pdf",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/Documentos/20250327_191507_sql#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1hsbw9gab2",
+      "Integrity": "5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Documentos\\20250327_191507_sql.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241220_125715_Plantilla_Reporte_Laboratorio.xlsx",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/excel/20241220_125715_Plantilla_Reporte_Laboratorio#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3ueq4r7rqr",
+      "Integrity": "ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\excel\\20241220_125715_Plantilla_Reporte_Laboratorio.xlsx"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241220_125823_Plantilla_Reporte _Campo.xlsx",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/excel/20241220_125823_Plantilla_Reporte _Campo#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6c2oc15w4s",
+      "Integrity": "1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\excel\\20241220_125823_Plantilla_Reporte _Campo.xlsx"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241221_193036_Plantilla_Reporte__Campo.xlsx",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/excel/20241221_193036_Plantilla_Reporte__Campo#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6c2oc15w4s",
+      "Integrity": "1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\excel\\20241221_193036_Plantilla_Reporte__Campo.xlsx"
+    },
+    {
+      "Identity": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241221_200606_Plantilla_Reporte_Laboratorio_1_.xlsx",
+      "SourceId": "AMVA.REDRIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\",
+      "BasePath": "_content/AMVA.REDRIO",
+      "RelativePath": "uploads/excel/20241221_200606_Plantilla_Reporte_Laboratorio_1_#[.{fingerprint}]?.xlsx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3ueq4r7rqr",
+      "Integrity": "ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\excel\\20241221_200606_Plantilla_Reporte_Laboratorio_1_.xlsx"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/Documentos/20241115_160418_PlantillaLABORATORIO.cgqu94r9ux.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_160418_PlantillaLABORATORIO.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cgqu94r9ux"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241115_160418_PlantillaLABORATORIO.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_160418_PlantillaLABORATORIO.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_160418_PlantillaLABORATORIO.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_163202_Plantilla Reporte Campo error.5azc34hoqo.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_163202_Plantilla Reporte Campo error.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ncBQciVcfAJr7vetJ9hIo4esGvLhYQ29ya2SXcB5v44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5azc34hoqo"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241115_163202_Plantilla Reporte Campo error.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ncBQciVcfAJr7vetJ9hIo4esGvLhYQ29ya2SXcB5v44="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_163202_Plantilla Reporte Campo error.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_163202_Plantilla Reporte Campo error.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15609"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ncBQciVcfAJr7vetJ9hIo4esGvLhYQ29ya2SXcB5v44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ncBQciVcfAJr7vetJ9hIo4esGvLhYQ29ya2SXcB5v44="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_164730_Campañas.js",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_164730_Campañas.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_164730_Campañas.rq727xgbq9.js",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_164730_Campañas.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rq727xgbq9"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241115_164730_Campañas.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_164810_Captura de pantalla (2).ogm71uab1i.png",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_164810_Captura de pantalla (2).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "179307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ogm71uab1i"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241115_164810_Captura de pantalla (2).png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_164810_Captura de pantalla (2).png",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_164810_Captura de pantalla (2).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "179307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_171650_Campañas.js",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_171650_Campañas.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241115_171650_Campañas.rq727xgbq9.js",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241115_171650_Campañas.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rq727xgbq9"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241115_171650_Campañas.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241116_143835_Campañas.js",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241116_143835_Campañas.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241116_143835_Campañas.rq727xgbq9.js",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241116_143835_Campañas.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "40106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rq727xgbq9"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241116_143835_Campañas.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TSFwHv7OtziCfRp27aYwJaK6RyVzytGr1as13RpmOdg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241116_144127_PlantillaLABORATORIO.cgqu94r9ux.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241116_144127_PlantillaLABORATORIO.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cgqu94r9ux"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241116_144127_PlantillaLABORATORIO.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241116_144127_PlantillaLABORATORIO.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241116_144127_PlantillaLABORATORIO.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bApQZgnEQZAPyBcJvKaktFGO16a0bcl2pISXb7hGAd8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241220_065726_PlantillaLaboratorio_campaña06-09.tt47jkdi2w.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241220_065726_PlantillaLaboratorio_campaña06-09.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z9jIqwEKJy6BcfxCnuYE+NK5dpU5YO+l+bsedO7p/2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tt47jkdi2w"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241220_065726_PlantillaLaboratorio_campaña06-09.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z9jIqwEKJy6BcfxCnuYE+NK5dpU5YO+l+bsedO7p/2s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241220_065726_PlantillaLaboratorio_campaña06-09.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241220_065726_PlantillaLaboratorio_campaña06-09.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z9jIqwEKJy6BcfxCnuYE+NK5dpU5YO+l+bsedO7p/2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z9jIqwEKJy6BcfxCnuYE+NK5dpU5YO+l+bsedO7p/2s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241221_194311_Captura_de_pantalla_(2).ogm71uab1i.png",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241221_194311_Captura_de_pantalla_(2).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "179307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ogm71uab1i"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241221_194311_Captura_de_pantalla_(2).png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241221_194311_Captura_de_pantalla_(2).png",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241221_194311_Captura_de_pantalla_(2).png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "179307"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eKZag/KxcYkMtBnkSkuv64k144NrrVlYZQZTn9GGb+w="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241221_195041_Captura de pantalla _3_.png",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241221_195041_Captura de pantalla _3_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DbaIARnmwI0H2Z0G5vyPM3cJ6YMh+mAx/B7ITpTorzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DbaIARnmwI0H2Z0G5vyPM3cJ6YMh+mAx/B7ITpTorzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241221_195041_Captura de pantalla _3_.xnrs75mtfh.png",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241221_195041_Captura de pantalla _3_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DbaIARnmwI0H2Z0G5vyPM3cJ6YMh+mAx/B7ITpTorzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnrs75mtfh"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241221_195041_Captura de pantalla _3_.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DbaIARnmwI0H2Z0G5vyPM3cJ6YMh+mAx/B7ITpTorzU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241221_195925_Captura_de_pantalla__5_.png",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241221_195925_Captura_de_pantalla__5_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J/Ia7/R253RNowp7Ulb16X+sP1gvxSFCOQKnu391WdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-J/Ia7/R253RNowp7Ulb16X+sP1gvxSFCOQKnu391WdY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241221_195925_Captura_de_pantalla__5_.rfbdrz5nm0.png",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241221_195925_Captura_de_pantalla__5_.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "105892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"J/Ia7/R253RNowp7Ulb16X+sP1gvxSFCOQKnu391WdY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rfbdrz5nm0"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241221_195925_Captura_de_pantalla__5_.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-J/Ia7/R253RNowp7Ulb16X+sP1gvxSFCOQKnu391WdY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241221_200003_Plantilla_Reporte__Campo.6c2oc15w4s.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241221_200003_Plantilla_Reporte__Campo.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6c2oc15w4s"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20241221_200003_Plantilla_Reporte__Campo.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20241221_200003_Plantilla_Reporte__Campo.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20241221_200003_Plantilla_Reporte__Campo.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250326_220711_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250326_220711_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 03:07:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250326_220711_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250326_220711_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250326_220711_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 03:07:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250326_220820_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250326_220820_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 03:08:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250326_220820_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250326_220820_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250326_220820_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 03:08:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_173906_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_173906_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:39:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_173906_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_173906_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_173906_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:39:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_174112_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_174112_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:41:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_174112_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_174112_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_174112_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:41:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_174649_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_174649_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_174649_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_174649_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_174649_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:46:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_174808_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_174808_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:48:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_174808_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_174808_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_174808_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:48:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_175022_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_175022_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:50:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_175022_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_175022_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_175022_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:50:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_175411_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_175411_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:54:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_175411_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_175411_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_175411_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:54:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_175613_Resultados_Diagnóstico_Municipal_ADIQUIM.i61pprko9g.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_175613_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:56:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i61pprko9g"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_175613_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_175613_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_175613_Resultados_Diagnóstico_Municipal_ADIQUIM.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "241937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 22:56:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xugxR5q5TM6Eirvfi9L5hbHeoZyppDSt3CYLQbZK1aU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_184537_sql.1hsbw9gab2.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_184537_sql.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142801"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 23:45:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hsbw9gab2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_184537_sql.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_184537_sql.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_184537_sql.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142801"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Mar 2025 23:45:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_191507_sql.1hsbw9gab2.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_191507_sql.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142801"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:15:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1hsbw9gab2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Documentos/20250327_191507_sql.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Documentos/20250327_191507_sql.pdf",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\Documentos\\20250327_191507_sql.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "142801"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Mar 2025 00:15:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5cg+KYgjpOUDsPANoWm28daXcuhvwcu0LmgC1v+aUGE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/excel/20241220_125715_Plantilla_Reporte_Laboratorio.3ueq4r7rqr.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241220_125715_Plantilla_Reporte_Laboratorio.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ueq4r7rqr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/excel/20241220_125715_Plantilla_Reporte_Laboratorio.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/excel/20241220_125715_Plantilla_Reporte_Laboratorio.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241220_125715_Plantilla_Reporte_Laboratorio.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/excel/20241220_125823_Plantilla_Reporte _Campo.6c2oc15w4s.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241220_125823_Plantilla_Reporte _Campo.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6c2oc15w4s"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/excel/20241220_125823_Plantilla_Reporte _Campo.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/excel/20241220_125823_Plantilla_Reporte _Campo.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241220_125823_Plantilla_Reporte _Campo.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/excel/20241221_193036_Plantilla_Reporte__Campo.6c2oc15w4s.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241221_193036_Plantilla_Reporte__Campo.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6c2oc15w4s"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/excel/20241221_193036_Plantilla_Reporte__Campo.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/excel/20241221_193036_Plantilla_Reporte__Campo.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241221_193036_Plantilla_Reporte__Campo.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15705"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qGGcljrQI4D1sFXN834+yuhZmlAB/Hoh+DLKAOctc0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/excel/20241221_200606_Plantilla_Reporte_Laboratorio_1_.3ueq4r7rqr.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241221_200606_Plantilla_Reporte_Laboratorio_1_.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3ueq4r7rqr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/excel/20241221_200606_Plantilla_Reporte_Laboratorio_1_.xlsx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/excel/20241221_200606_Plantilla_Reporte_Laboratorio_1_.xlsx",
+      "AssetFile": "C:\\Users\\Acer2025\\Documents\\CarpetsRedRIO\\REDRIOMicroservicios\\AMVA.REDRIO\\wwwroot\\uploads\\excel\\20241221_200606_Plantilla_Reporte_Laboratorio_1_.xlsx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 01:33:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZTJXPZA1DFue2DOL3oQCLZ9Tm3KvG7yzar0z1jo/fKI="
+        }
+      ]
+    }
+  ]
+}

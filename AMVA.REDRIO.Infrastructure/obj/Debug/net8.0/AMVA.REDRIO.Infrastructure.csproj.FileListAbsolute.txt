@@ -1,0 +1,17 @@
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Infrastructure\obj\Debug\net8.0\AMVA.REDRIO.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Infrastructure\obj\Debug\net8.0\AMVA.REDRIO.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Infrastructure\obj\Debug\net8.0\AMVA.REDRIO.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Infrastructure\obj\Debug\net8.0\AMVA.REDRIO.Infrastructure.AssemblyInfo.cs
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Infrastructure\obj\Debug\net8.0\AMVA.REDRIO.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Infrastructure\bin\Debug\net8.0\AMVA.REDRIO.Infrastructure.deps.json
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Infrastructure\bin\Debug\net8.0\AMVA.REDRIO.Infrastructure.runtimeconfig.json
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Infrastructure\bin\Debug\net8.0\AMVA.REDRIO.Infrastructure.dll
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Infrastructure\bin\Debug\net8.0\AMVA.REDRIO.Infrastructure.pdb
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Infrastructure\bin\Debug\net8.0\AMVA.REDRIO.Core.dll
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Infrastructure\bin\Debug\net8.0\AMVA.REDRIO.Core.pdb
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Infrastructure\obj\Debug\net8.0\AMVA.RED.3946DA6F.Up2Date
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Infrastructure\obj\Debug\net8.0\AMVA.REDRIO.Infrastructure.dll
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Infrastructure\obj\Debug\net8.0\refint\AMVA.REDRIO.Infrastructure.dll
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Infrastructure\obj\Debug\net8.0\AMVA.REDRIO.Infrastructure.pdb
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Infrastructure\obj\Debug\net8.0\AMVA.REDRIO.Infrastructure.genruntimeconfig.cache
+C:\Users\Acer2025\Documents\CarpetsRedRIO\REDRIOMicroservicios\AMVA.REDRIO.Infrastructure\obj\Debug\net8.0\ref\AMVA.REDRIO.Infrastructure.dll

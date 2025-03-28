@@ -1,0 +1,2032 @@
+[
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.BiologicoController",
+    "Method": "UpdateBiologico",
+    "RelativePath": "api/Biologico/ActualizarBiologico/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "biologico",
+        "Type": "AMVA.REDRIO.Core.DTO.Biologico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.BiologicoController",
+    "Method": "AddBiologico",
+    "RelativePath": "api/Biologico/AgregarBiologico",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "biologico",
+        "Type": "AMVA.REDRIO.Core.DTO.Biologico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.BiologicoController",
+    "Method": "DeleteBiologico",
+    "RelativePath": "api/Biologico/EliminarBiologico/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.BiologicoController",
+    "Method": "GetByIdBiologico",
+    "RelativePath": "api/Biologico/ObtenerBiologico/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.BiologicoController",
+    "Method": "GetAllBiologicos",
+    "RelativePath": "api/Biologico/ObtenerBiologicos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.Campa\u00F1aController",
+    "Method": "UpdateCampa\u00F1a",
+    "RelativePath": "api/Campa\u00F1a/ActualizarCampa\u00F1a/{idCamapa\u00F1a}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCamapa\u00F1a",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "campa\u00F1a",
+        "Type": "AMVA.REDRIO.Core.DTO.Campa\u00F1a",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.Campa\u00F1aController",
+    "Method": "AddCampa\u00F1a",
+    "RelativePath": "api/Campa\u00F1a/AgregarCampa\u00F1a",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "campa\u00F1a",
+        "Type": "AMVA.REDRIO.Core.DTO.Campa\u00F1a",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.Campa\u00F1aController",
+    "Method": "DeleteCampa\u00F1a",
+    "RelativePath": "api/Campa\u00F1a/EliminarCampa\u00F1a/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.Campa\u00F1aController",
+    "Method": "GetByIdCampa\u00F1a",
+    "RelativePath": "api/Campa\u00F1a/ObtenerCampa\u00F1a/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.Campa\u00F1aController",
+    "Method": "GetAllCampa\u00F1as",
+    "RelativePath": "api/Campa\u00F1a/ObtenerCampa\u00F1as",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.DepartamentoController",
+    "Method": "UpdateDepartamento",
+    "RelativePath": "api/Departamento/ActualizarDepartamento/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "departamento",
+        "Type": "AMVA.REDRIO.Core.DTO.Departamento",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.DepartamentoController",
+    "Method": "AddDepartamento",
+    "RelativePath": "api/Departamento/AgregarDepartamento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "departamento",
+        "Type": "AMVA.REDRIO.Core.DTO.Departamento",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.DepartamentoController",
+    "Method": "DeleteDepartamento",
+    "RelativePath": "api/Departamento/EliminarDepartamento/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.DepartamentoController",
+    "Method": "GetByIdDepartamento",
+    "RelativePath": "api/Departamento/ObtenerDepartamento/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.DepartamentoController",
+    "Method": "GetAllDepartamentos",
+    "RelativePath": "api/Departamento/ObtenerDepartamentos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.DocsCampa\u00F1aController",
+    "Method": "UpdateDocsCampa\u00F1a",
+    "RelativePath": "api/DocsCampa\u00F1a/ActualizarDocsCampa\u00F1a/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "docsCampa\u00F1a",
+        "Type": "AMVA.REDRIO.Core.DTO.DocsCampa\u00F1a",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.DocsCampa\u00F1aController",
+    "Method": "AddDocsCampa\u00F1a",
+    "RelativePath": "api/DocsCampa\u00F1a/AgregarDocsCampa\u00F1a",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "docsCampa\u00F1a",
+        "Type": "AMVA.REDRIO.Core.DTO.DocsCampa\u00F1a",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.DocsCampa\u00F1aController",
+    "Method": "DeleteDocsCampa\u00F1a",
+    "RelativePath": "api/DocsCampa\u00F1a/EliminarDocsCampa\u00F1a/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.DocsCampa\u00F1aController",
+    "Method": "GetByIdDocsCampa\u00F1a",
+    "RelativePath": "api/DocsCampa\u00F1a/ObtenerDocsCampa\u00F1a/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.DocsCampa\u00F1aController",
+    "Method": "GetByCampa\u00F1asAsync",
+    "RelativePath": "api/DocsCampa\u00F1a/ObtenerDocsCampa\u00F1aPorCampa\u00F1a/{idCampa\u00F1a}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCampa\u00F1a",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.DocsCampa\u00F1aController",
+    "Method": "GetAllDocsCampa\u00F1as",
+    "RelativePath": "api/DocsCampa\u00F1a/ObtenerDocsCampa\u00F1as",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.EstacionController",
+    "Method": "UpdateEstacion",
+    "RelativePath": "api/Estacion/ActualizarEstacion/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "estacion",
+        "Type": "AMVA.REDRIO.Core.DTO.Estacion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.EstacionController",
+    "Method": "AddEstacion",
+    "RelativePath": "api/Estacion/AgregarEstacion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estacion",
+        "Type": "AMVA.REDRIO.Core.DTO.Estacion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.EstacionController",
+    "Method": "DeleteEstacion",
+    "RelativePath": "api/Estacion/EliminarEstacion/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.EstacionController",
+    "Method": "GetByIdEstacion",
+    "RelativePath": "api/Estacion/ObtenerEstacion/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.EstacionController",
+    "Method": "GetEstacionByCodigo",
+    "RelativePath": "api/Estacion/ObtenerEstacionCodigo/{codigo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.EstacionController",
+    "Method": "GetAllEstaciones",
+    "RelativePath": "api/Estacion/ObtenerEstaciones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.FaseController",
+    "Method": "UpdateFase",
+    "RelativePath": "api/Fase/ActualizarFase/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "fase",
+        "Type": "AMVA.REDRIO.Core.DTO.Fase",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.FaseController",
+    "Method": "AddFase",
+    "RelativePath": "api/Fase/AgregarFase",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fase",
+        "Type": "AMVA.REDRIO.Core.DTO.Fase",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.FaseController",
+    "Method": "DeleteFase",
+    "RelativePath": "api/Fase/EliminarFase/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.FaseController",
+    "Method": "GetByIdFase",
+    "RelativePath": "api/Fase/ObtenerFase/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.FaseController",
+    "Method": "GetAllFases",
+    "RelativePath": "api/Fase/ObtenerFases",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.FisicoController",
+    "Method": "UpdateFisico",
+    "RelativePath": "api/Fisico/ActualizarFisico/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "fisico",
+        "Type": "AMVA.REDRIO.Core.DTO.Fisico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.FisicoController",
+    "Method": "AddFisico",
+    "RelativePath": "api/Fisico/AgregarFisico",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fisico",
+        "Type": "AMVA.REDRIO.Core.DTO.Fisico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.FisicoController",
+    "Method": "DeleteFisico",
+    "RelativePath": "api/Fisico/EliminarFisico/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.FisicoController",
+    "Method": "GetByIdFisico",
+    "RelativePath": "api/Fisico/ObtenerFisico/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.FisicoController",
+    "Method": "GetAllFisicos",
+    "RelativePath": "api/Fisico/ObtenerFisicos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.InsituController",
+    "Method": "UpdateInsitu",
+    "RelativePath": "api/Insitu/ActualizarInsitu/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "insitu",
+        "Type": "AMVA.REDRIO.Core.DTO.Insitu",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.InsituController",
+    "Method": "AddInsitu",
+    "RelativePath": "api/Insitu/AgregarInsitu",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "insitu",
+        "Type": "AMVA.REDRIO.Core.DTO.Insitu",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.InsituController",
+    "Method": "DeleteInsitu",
+    "RelativePath": "api/Insitu/EliminarInsitu/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.InsituController",
+    "Method": "GetByIdInsitu",
+    "RelativePath": "api/Insitu/ObtenerInsitu/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.InsituController",
+    "Method": "GetAllInsitus",
+    "RelativePath": "api/Insitu/ObtenerInsitus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MetalAguaController",
+    "Method": "UpdateMetalAgua",
+    "RelativePath": "api/MetalAgua/ActualizarMetalAgua/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "metalAgua",
+        "Type": "AMVA.REDRIO.Core.DTO.MetalAgua",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MetalAguaController",
+    "Method": "AddMetalAgua",
+    "RelativePath": "api/MetalAgua/AgregarMetalAgua",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "metalAgua",
+        "Type": "AMVA.REDRIO.Core.DTO.MetalAgua",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MetalAguaController",
+    "Method": "DeleteMetalAgua",
+    "RelativePath": "api/MetalAgua/EliminarMetalAgua/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MetalAguaController",
+    "Method": "GetByIdMetalAgua",
+    "RelativePath": "api/MetalAgua/ObtenerMetalAgua/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MetalAguaController",
+    "Method": "GetAllMetalAguas",
+    "RelativePath": "api/MetalAgua/ObtenerMetalesAgua",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MetalSedimentalController",
+    "Method": "UpdateMetalSedimental",
+    "RelativePath": "api/MetalSedimental/ActualizarMetalSedimental/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "metalSedimental",
+        "Type": "AMVA.REDRIO.Core.DTO.MetalSedimental",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MetalSedimentalController",
+    "Method": "AddMetalSedimental",
+    "RelativePath": "api/MetalSedimental/AgregarMetalSedimental",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "metalSedimental",
+        "Type": "AMVA.REDRIO.Core.DTO.MetalSedimental",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MetalSedimentalController",
+    "Method": "DeleteMetalSedimental",
+    "RelativePath": "api/MetalSedimental/EliminarMetalSedimental/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MetalSedimentalController",
+    "Method": "GetAllMetalSedimentals",
+    "RelativePath": "api/MetalSedimental/ObtenerMetalesSedimentales",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MetalSedimentalController",
+    "Method": "GetByIdMetalSedimental",
+    "RelativePath": "api/MetalSedimental/ObtenerMetalSedimental/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MuestraCompuestaController",
+    "Method": "UpdateMuestraCompuesta",
+    "RelativePath": "api/MuestraCompuesta/ActualizarLaboratorio/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "MuestraCompuesta",
+        "Type": "AMVA.REDRIO.Core.DTO.MuestraCompuesta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MuestraCompuestaController",
+    "Method": "AddMuestraCompuesta",
+    "RelativePath": "api/MuestraCompuesta/AgregarMuestraCompuesta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "MuestraCompuesta",
+        "Type": "AMVA.REDRIO.Core.DTO.MuestraCompuesta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MuestraCompuestaController",
+    "Method": "DeleteMuestraCompuesta",
+    "RelativePath": "api/MuestraCompuesta/EliminarMuestraCompuesta/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MuestraCompuestaController",
+    "Method": "GetAllMuestraCompuestas",
+    "RelativePath": "api/MuestraCompuesta/ObtenerMuestraCompuesta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MuestraCompuestaController",
+    "Method": "GetByIdMuestraCompuesta",
+    "RelativePath": "api/MuestraCompuesta/ObtenerMuestraCompuesta/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MunicipioController",
+    "Method": "UpdateMunicipio",
+    "RelativePath": "api/Municipio/ActualizarMunicipio/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "municipio",
+        "Type": "AMVA.REDRIO.Core.DTO.Municipio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MunicipioController",
+    "Method": "AddMunicipio",
+    "RelativePath": "api/Municipio/AgregarMunicipio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "municipio",
+        "Type": "AMVA.REDRIO.Core.DTO.Municipio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MunicipioController",
+    "Method": "DeleteMunicipio",
+    "RelativePath": "api/Municipio/EliminarMunicipio/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MunicipioController",
+    "Method": "GetByIdMunicipio",
+    "RelativePath": "api/Municipio/ObtenerMunicipio/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.MunicipioController",
+    "Method": "GetAllMunicipios",
+    "RelativePath": "api/Municipio/ObtenerMunicipios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.NutrienteController",
+    "Method": "UpdateNutriente",
+    "RelativePath": "api/Nutriente/ActualizarNutriente/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "nutriente",
+        "Type": "AMVA.REDRIO.Core.DTO.Nutriente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.NutrienteController",
+    "Method": "AddNutriente",
+    "RelativePath": "api/Nutriente/AgregarNutriente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nutriente",
+        "Type": "AMVA.REDRIO.Core.DTO.Nutriente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.NutrienteController",
+    "Method": "DeleteNutriente",
+    "RelativePath": "api/Nutriente/EliminarNutriente/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.NutrienteController",
+    "Method": "GetByIdNutriente",
+    "RelativePath": "api/Nutriente/ObtenerNutriente/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.NutrienteController",
+    "Method": "GetAllNutrientes",
+    "RelativePath": "api/Nutriente/ObtenerNutrientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.QuimicoController",
+    "Method": "UpdateQuimico",
+    "RelativePath": "api/Quimico/ActualizarQuimico/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Quimico",
+        "Type": "AMVA.REDRIO.Core.DTO.Quimico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.QuimicoController",
+    "Method": "AddQuimico",
+    "RelativePath": "api/Quimico/AgregarQuimico",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quimico",
+        "Type": "AMVA.REDRIO.Core.DTO.Quimico",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.QuimicoController",
+    "Method": "DeleteQuimico",
+    "RelativePath": "api/Quimico/EliminarQuimico/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.QuimicoController",
+    "Method": "GetByIdQuimico",
+    "RelativePath": "api/Quimico/ObtenerQuimico/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.QuimicoController",
+    "Method": "GetAllQuimicos",
+    "RelativePath": "api/Quimico/ObtenerQuimicos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.ReportesLaboratorioController",
+    "Method": "UpdateReportesLaboratorio",
+    "RelativePath": "api/ReportesLaboratorio/ActualizarLaboratorio/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "reporte",
+        "Type": "AMVA.REDRIO.Core.DTO.ReportesLaboratorio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.ReportesLaboratorioController",
+    "Method": "AddReportesLaboratorio",
+    "RelativePath": "api/ReportesLaboratorio/AgregarReporteLaboratorio",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reporte",
+        "Type": "AMVA.REDRIO.Core.DTO.ReportesLaboratorio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.ReportesLaboratorioController",
+    "Method": "DeleteReportesLaboratorio",
+    "RelativePath": "api/ReportesLaboratorio/EliminarReporteLaboratorio/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.ReportesLaboratorioController",
+    "Method": "GetByIdReportesLaboratorio",
+    "RelativePath": "api/ReportesLaboratorio/ObtenerReporteLaboratorio/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.ReportesLaboratorioController",
+    "Method": "GetByCampa\u00F1aAsync",
+    "RelativePath": "api/ReportesLaboratorio/ObtenerReporteLaboratorioPorCampa\u00F1a/{idCampa\u00F1a}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCampa\u00F1a",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.ReportesLaboratorioController",
+    "Method": "GetAllReportesLaboratorios",
+    "RelativePath": "api/ReportesLaboratorio/ObtenerReportesLaboratorio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.ResultadoCampoController",
+    "Method": "UpdateResultadoCampo",
+    "RelativePath": "api/ResultadoCampo/ActualizarResultadoCampo/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "resultadoCampo",
+        "Type": "AMVA.REDRIO.Core.DTO.ResultadoCampo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.ResultadoCampoController",
+    "Method": "AddResultadoCampo",
+    "RelativePath": "api/ResultadoCampo/AgregarResultadoCampo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resultadoCampo",
+        "Type": "AMVA.REDRIO.Core.DTO.ResultadoCampo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.ResultadoCampoController",
+    "Method": "DeleteResultadoCampo",
+    "RelativePath": "api/ResultadoCampo/EliminarResultadoCampo/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.ResultadoCampoController",
+    "Method": "GetByIdResultadoCampo",
+    "RelativePath": "api/ResultadoCampo/ObtenerResultadoCampo/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.ResultadoCampoController",
+    "Method": "GetAllResultadoCampos",
+    "RelativePath": "api/ResultadoCampo/ObtenerResultadosCampo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.TipoFaseController",
+    "Method": "UpdateTipoFase",
+    "RelativePath": "api/TipoFase/ActualizarTipoFase/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tipoFase",
+        "Type": "AMVA.REDRIO.Core.DTO.TipoFase",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.TipoFaseController",
+    "Method": "AddTipoFase",
+    "RelativePath": "api/TipoFase/AgregarTipoFase",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipoFase",
+        "Type": "AMVA.REDRIO.Core.DTO.TipoFase",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.TipoFaseController",
+    "Method": "DeleteTipoFase",
+    "RelativePath": "api/TipoFase/EliminarTipoFase/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.TipoFaseController",
+    "Method": "GetByIdTipoFase",
+    "RelativePath": "api/TipoFase/ObtenerTipoFase/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.TipoFaseController",
+    "Method": "GetAllTiposFases",
+    "RelativePath": "api/TipoFase/ObtenerTiposFases",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.TipoFuenteController",
+    "Method": "UpdateTipoFuente",
+    "RelativePath": "api/TipoFuente/ActualizarTipoFuente/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tipoFuente",
+        "Type": "AMVA.REDRIO.Core.DTO.TipoFuente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.TipoFuenteController",
+    "Method": "AddTipoFuente",
+    "RelativePath": "api/TipoFuente/AgregarTipoFuente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipoFuente",
+        "Type": "AMVA.REDRIO.Core.DTO.TipoFuente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.TipoFuenteController",
+    "Method": "DeleteTipoFuente",
+    "RelativePath": "api/TipoFuente/EliminarTipoFuente/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.TipoFuenteController",
+    "Method": "GetByIdTipoFuente",
+    "RelativePath": "api/TipoFuente/ObtenerTipoFuente/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AMVA.REDRIO.Controllers.TipoFuenteController",
+    "Method": "GetAllTiposFuentes",
+    "RelativePath": "api/TipoFuente/ObtenerTiposFuentes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "AMVA.REDRIO.Core.Models.Response",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
